@@ -10,6 +10,7 @@
 _Compiled by ntdars, with the much needed help of the WMR community. Version 2.1._
 
 Discussion: https://wmrexperimental.freeforums.net/thread/288/expanded-unit-lists-casual-play[Expanded Unit Lists for casual play].
+====
 
 [#army-selector]
 == Forces of Order
