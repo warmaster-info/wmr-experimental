@@ -1,0 +1,160 @@
+= Terrain
+:page-role: experimental
+
+****
+Improve terrain rules, intended to replace the xref:rules:movement.adoc#terrain[normal and advanced terrain rules].
+
+Based on https://drive.google.com/file/d/1Gl4fcOl7QYkriOor2AxVtRr93YrATxCd/view[WMR_Advanced_2.1_beta0.3.pdf].
+
+Discussion: https://wmrexperimental.freeforums.net/thread/406/simplifying-advanced-terrain-keywords[Simplyfying Advanced Terrain].
+****
+
+By terrain we mean woods, hills, rivers and other features of the landscape that might be found on the battlefield. Many of these features can hinder the passage of troops, forcing them out of formation or presenting an unwelcome barrier — chariot wheels get bogged down in marsh, the legs of cavalry become tangled in dense undergrowth, and no regiment would attempt to cross quicksand or lava, though a skilled hero might pick a careful path. On the other hand, infantry can take up defensive positions behind walls or buildings, and a bolt thrower could be hidden amongst bushes on a hillside, but both would have difficulty seeing or hearing the signals of a distant commander.
+
+The terrain rules provide a variety of different types of terrain intended to cover these situations.
+
+== Terrain properties
+
+Passable terrain:: Accessible to all troops, these are the predominantly open areas of the battlefield.
+
+Rough terrain:: Accessible only to Infantry, Monsters, and Cavalry.
++
+Charging units do not receive charge bonuses against enemy stands at least partially in Rough terrain.
+
+Difficult terrain:: Accessible only to infantry.
++
+Infantry stands at least partially within Difficult terrain are considered defended.
+
+Dense terrain:: Units at least partially within Dense terrain receive a -1 Command penalty when being given orders.
+
+Broken terrain:: Units at least partially within Broken terrain count as in Irregular formation.
+
+Impassable terrain:: Units cannot enter Impassable terrain. Characters and flying units may pass through (or over) as long as they do not end their movement inside it.
+
+== Terrain types
+
+Passable terrain (grassland, moor, meadow, firm desert sand or snow):: _Passable terrain_.
+
+Hills and slopes:: _Passable_ terrain. Higher ground blocks line of sight. Infantry and artillery are defended against any units charging or shooting from lower positions. Artillery units can shoot over friendly units on lower ground (see p.53).
+
+Rough terrain (fields, soft sand):: _Rough_ terrain
+
+Marsh or dunes:: _Rough_ and _Dense_ terrain.
+
+Woods or tall scrub:: _Difficult_ and _Dense_ terrain. Visibility is limited to 2cm.
+
+Dense forest, swamp or jungle:: _Difficult_, _Dense_ and _Broken_ terrain. Visibility is limited to 2cm.
+
+Villages or towns:: Distinguishable bordered area consisting of a number of buildings. The entire built-up area is considered to be a broad terrain type: no account is taken of individual buildings, gardens, and so forth.
++
+_Passable_, _Dense_ and _Broken_ terrain. Infantry and artillery units count as xref:rules:combat.adoc#defended[defended] when within. All unit types can be pursued when starting their retreat in this terrain type. Visibility is limited to 2cm.
+
+Rivers, lakes, lava::
+Ravines, deep pits:: These are _Impassable_ terrain and don’t block line of sight.
+
+Sheer cliffs, mountains::
+Individual buildings or similar terrain features:: These are _Impassable_ terrain and block line of sight.
+
+Roads and tracks:: _Passable_ terrain. A unit that moves its maximum movement distance in a column formation along the road can make an extra half-pace move and gains a +1 Command bonus for its next order in this Command phase. However this movement must not result in contact with the enemy. Only one infantry unit or two cavalry/chariot units can move next to each other on a road.
+
+Streams:: _Rough_ and _Broken_ terrain. Infantry positioned along the bank of a stream are defended against enemy charging from within or across the stream.
+
+Bridges and Fords:: _Passable_ terrain. Bridges and fords don’t block line of sight.
++
+A bridge or ford that connects to a road or track is part of that road or track and the Command bonus applies accordingly.
+
+Low linear obstacles:: These are features such as ditches, hedges, fences, and low walls.  Accessible only to Infantry, Monsters, and Cavalry. Infantry and artillery stands placed behind a low linear obstacle count as defended. Low linear obstacles don’t block line of sight.
+
+High linear obstacles or fortress walls:: These can be found in detail in the chapter xref:rules:siege-and-fortresses.adoc[Siege & Fortresses].
+
+== Movement at a Glance – Terrain
+
+_This table could be added to the “Movement at a Glance” page._
+
+****
+[%header,format=tsv,cols="h,3*<",frame=none,grid=rows]
+|===
+|{empty} |Movement |Protection |Command
+
+|Passable terrain
+|Passable
+|
+|
+
+|Hills and slopes
+|Passable
+|Infantry and artillery defended if higher
+|
+
+|Rough terrain
+|Infantry, cavalry, monsters only
+|No charge bonus
+|
+
+|Marsh, swamp or dunes
+|Infantry, cavalry, monsters only
+|No charge bonus.
+|−1 Command
+
+|Woods and tall scrub
+|Infantry only
+|Infantry defended
+|−1 Command, 2cm visibility
+
+|Dense forest and jungle
+|Infantry only. +
+Irregular formation
+|Infantry defended
+|−1 Command, +
+2cm visibility
+
+|Villages and towns
+|Irregular formation.
+|Unrestricted pursuit.
+|Infantry and artillery defended.
+|−1 Command, +
+2cm visibility
+
+|Rivers, lakes, lava, ravines, deep pits
+|Impassable
+|
+|
+
+|Sheer cliffs, mountains, individual buildings, terrain features
+|Impassable
+|
+|
+
+|Roads and tracks
+|Enables crossing restricted terrain. +
+Column allows extra half-pace move.
+|
+|Column allows +1 Command for following order.
+
+|Streams
+|Infantry, cavalry, monsters only. +
+Irregular formation
+|Infantry defended along bank
+|
+
+|Bridges and fords
+|Passable
+|
+|
+
+|Low linear obstacles
+|Infantry, cavalry, monsters only
+|Infantry and artillery defended across obstacle
+|
+
+|High linear obstacles
+|Infantry only
+|Infantry fortified across obstacle
+|
+
+|City and fortress walls
+|See Sieges
+|
+|
+|===
+****

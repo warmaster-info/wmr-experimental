@@ -1,0 +1,4 @@
+* Experimental Armies
+** xref:index.adoc[]
+** xref:expanded-unit-list-order.adoc[]
+** xref:expanded-unit-list-destruction.adoc[]

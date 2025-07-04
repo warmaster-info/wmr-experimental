@@ -1,0 +1,16 @@
+Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
+Dark Elf Executioners 	Infantry 	3	3	5+ 	– 	3	80	–/1 	<<executioners>>
+Dark Elf Cold One Chariots 	Chariot 	3/2 	3	5+ 	– 	3	120	–/– 	<<cold-one-chariots>>
+Dark Elf Black Guard 	Infantry 	3	3	4+ 	– 	3	90	–/1 	<<black-guard>>
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
+Beastmen Cygor 	Monster 	3/3 	4	5+ 	– 	1	100	–/1 	<<cygor>>
+Beastmen Pestigors 	Infantry 	4	4	5+ 	– 	3	35	–/1 	<<pestigors>>
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
+Orc Boar Chariots 	Chariot 	3	3	5+ 	– 	3	95	–/– 	
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
+Skaven Weapon Teams 	Infantry 	2/2 	3	– 	– 	1	25	–/2 	<<weapon-teams>>
+Skaven Hellpit Abomination 	Monster 	6	4	4+ 	– 	1	125	–/1 	<<hellpit-abomination>>
+Skaven Verminlord 	Upgrade 	3	– 	– 	– 	– 	75	0–1 	<<verminlord>>
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
+Vampire Counts Blood Knights 	Cavalry 	3	3	4+ 	– 	3	170	0–1 	<<blood-knights>>
+Vampire Counts Varghulf 	Monster 	5	4	5+ 	– 	1	125	–/1 	<<varghulf>>

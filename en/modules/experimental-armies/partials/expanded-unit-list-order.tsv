@@ -1,0 +1,17 @@
+Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
+Empire Greatswords 	Infantry 	3	3	4+ 	– 	3	85	–/1 	<<greatswords>>
+Empire Demigryph Knights 	Cavalry 	4	3	4+ 	– 	3	155	–/1 	<<demigryph-knights>>
+Empire Huntsmen 	Infantry 	2/1 	3	– 	– 	3	65	–/2 	<<huntsmen>>
+Empire Outriders 	Cavalry 	3/1 	3	5+ 	– 	3	105	–/2* 	<<outriders>>
+Empire Warrior Priest 	Wizard 	1	– 	– 	7	1	60	–/1* 	<<warrior-priest>>
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
+Dwarf Clansmen (Required) 	Infantry 	3	4	5+ 	– 	3	80	2/– 	
+Dwarf Longbeards 	Infantry 	3	4	4+ 	– 	3	120	–/2 	<<longbeards>>
+Dwarf Hammerers 	Infantry 	4	4	4+ 	– 	3	145	0–1 	<<hammerers>>
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
+High Elf Seaguard 	Infantry 	3/1 	3	5+ 	– 	3	25	–/1 	<<seaguard>>
+High Elf Swordmasters 	Infantry 	4	3	5+ 	– 	3	80	–/1 	
+High Elf Phoenix Guard 	Infantry 	3	3	4+ 	– 	3	90	–/1 	<<phoenix-guard>>
+High Elf Dragon Princes 	Cavalry 	4	3	4+ 	– 	3	165	0–1 	<<dragon-princes>>
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
+Kislev Urugan Cannons 	Artillery 	1/2+ bounce 	2	0	– 	2	90	–/1 	<<uruguan-cannons>>

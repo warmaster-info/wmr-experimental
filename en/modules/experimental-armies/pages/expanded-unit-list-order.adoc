@@ -1,0 +1,88 @@
+= Expanded Unit List – Order
+:page-layout: armylist
+:page-role: armylist experimental
+:page-toclevels: 1
+
+****
+*Experimental rules designed to be used for casual play.*
+
+_Compiled by ntdars, with the much needed help of the WMR community. Version 2.1._
+
+Discussion: https://wmrexperimental.freeforums.net/thread/288/expanded-unit-lists-casual-play[Expanded Unit Lists for casual play].
+****
+
+[#army-selector]
+== Forces of Order
+
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
+|===
+include::partial$expanded-unit-list-order.tsv[]
+|===
+
+[#special-rules]
+== Special rules
+
+// attack → Attack.
+// can → may
+
+[[greatswords,†1]]1. Greatswords:: Greatswords get +1 Attack for the first
+round of combat when they charge. Skirmishers
+cannot join a unit of Greatswords.
+
+[[demigryph-knights,†2]]2. Demigryph Knights:: Demigryph Knights are
+unaffected by enemies that cause Terror in combat, so
+they do not suffer the usual −1 Attack modifier.
+
+[[huntsmen,†3]]3. Huntsmen:: Can ambush (see xref:dwarfs.adoc#rangers[Dwarf Rangers] or
+xref:wood-elves.adoc#waywatchers[Waywatchers]).
++
+Huntsmen add +1 their dice roll when
+making Shooting attacks. They will therefore score a
+hit against targets in the open on a 3 or more, against
+targets that are defended on a 4 or more, and against
+fortified targets on a 5 or more.
+
+[[outriders,†4]]4. Outriders:: Up to two units of Pistoliers can be
+replaced with a unit of Outriders at the added cost of
+10pts.
++
+Count enemy Armour values as one worse than
+normal when shot by Outriders, like xref:empire.adoc#handgunners[Handgunners].
+
+[[warrior-priest,†5]]5. Warrior Priest:: One Wizard per 1000 points may be
+replaced with a Warrior Priest at the added cost of 15pts.
++
+Warrior Priests cast spells from the xref:witch-hunters.adoc#spells[Witch Hunter spell list]
+instead of the usual Empire spell list.
+
+[[longbeards,†6]]6. Longbeards:: Longbeards are unaffected by enemies
+that cause Terror in combat, so they do not suffer the
+usual −1 Attack modifier.
+
+[[hammerers,†7]]7. Hammerers:: Hammerers are handpicked by the
+General as his personal bodyguard, [.edit]#so a Dwarf army may only include
+a single unit of Hammerers#.
+
+[[seaguard,†8]]8. Seaguard:: One unit of High Elf Spearmen per full
+1000 points can be upgraded to Seaguard for 25
+points. Seaguard have a shooting range
+of only 15cm.
+
+[[phoenix-guard,†9]]9. Phoenix Guard:: Phoenix Guard are unaffected
+by enemies that cause Terror in combat, so they
+do not suffer the usual −1 Attack modifier.
+
+[[dragon-princes,†10]]10. Dragon Princes:: Dragon Princes wear ornate,
+burnished armour that makes them resistant
+to fire. They may re-roll any failed Armour
+saves made against fire based attacks, such
+as Warpfire, Flame Cannons, Ball of Flame,
+Flame Breath, etc.
++
+Dragon Princes are
+exceptionally rare, so [.edit]#a High Elf army may only include
+a single unit#.
+
+[[uruguan-cannons,†11]]11. Uruguan Cannons:: Uruguan Cannons use
+the xref:dogs-of-war.adoc#galloper-gun[Galloper Gun special rules] from
+the Dogs of War list.
