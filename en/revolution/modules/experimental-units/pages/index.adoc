@@ -1,0 +1,6 @@
+= Introduction
+:page-role: -toc title-page
+
+Experimental lists includes those being considered for inclusion in a later edition of the _Warmaster Revolution_ Armies book, as well as informal lists for casual play.
+
+See the https://wmrexperimental.freeforums.net/[Warmaster Experimental Forum] for more information.
