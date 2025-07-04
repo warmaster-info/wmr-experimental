@@ -3,13 +3,13 @@
 :page-role: armylist experimental
 :page-toclevels: 1
 
-****
-*Experimental rules designed to be used for casual play.*
+[IMPORTANT]
+====
+*These are experimental rules designed to be used for casual play.*
 
 _Compiled by ntdars, with the much needed help of the WMR community. Version 2.1._
 
 Discussion: https://wmrexperimental.freeforums.net/thread/288/expanded-unit-lists-casual-play[Expanded Unit Lists for casual play].
-****
 
 [#army-selector]
 == Forces of Order
@@ -33,8 +33,8 @@ cannot join a unit of Greatswords.
 unaffected by enemies that cause Terror in combat, so
 they do not suffer the usual −1 Attack modifier.
 
-[[huntsmen,†3]]3. Huntsmen:: Can ambush (see xref:dwarfs.adoc#rangers[Dwarf Rangers] or
-xref:wood-elves.adoc#waywatchers[Waywatchers]).
+[[huntsmen,†3]]3. Huntsmen:: Can ambush (see xref:armies:dwarfs.adoc#rangers[Dwarf Rangers] or
+xref:armies:wood-elves.adoc#waywatchers[Waywatchers]).
 +
 Huntsmen add +1 their dice roll when
 making Shooting attacks. They will therefore score a
@@ -47,12 +47,12 @@ replaced with a unit of Outriders at the added cost of
 10pts.
 +
 Count enemy Armour values as one worse than
-normal when shot by Outriders, like xref:empire.adoc#handgunners[Handgunners].
+normal when shot by Outriders, like xref:armies:empire.adoc#handgunners[Handgunners].
 
 [[warrior-priest,†5]]5. Warrior Priest:: One Wizard per 1000 points may be
 replaced with a Warrior Priest at the added cost of 15pts.
 +
-Warrior Priests cast spells from the xref:witch-hunters.adoc#spells[Witch Hunter spell list]
+Warrior Priests cast spells from the xref:armies:witch-hunters.adoc#spells[Witch Hunter spell list]
 instead of the usual Empire spell list.
 
 [[longbeards,†6]]6. Longbeards:: Longbeards are unaffected by enemies
@@ -84,5 +84,5 @@ exceptionally rare, so [.edit]#a High Elf army may only include
 a single unit#.
 
 [[uruguan-cannons,†11]]11. Uruguan Cannons:: Uruguan Cannons use
-the xref:dogs-of-war.adoc#galloper-gun[Galloper Gun special rules] from
+the xref:armies:dogs-of-war.adoc#galloper-gun[Galloper Gun special rules] from
 the Dogs of War list.

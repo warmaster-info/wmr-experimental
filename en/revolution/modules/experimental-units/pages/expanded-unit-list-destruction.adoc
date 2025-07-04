@@ -3,13 +3,14 @@
 :page-role: armylist experimental
 :page-toclevels: 1
 
-****
-*Experimental rules designed to be used for casual play.*
+[IMPORTANT]
+====
+*These are experimental rules designed to be used for casual play.*
 
 _Compiled by ntdars, with the much needed help of the WMR community. Version 2.1._
 
 Discussion: https://wmrexperimental.freeforums.net/thread/288/expanded-unit-lists-casual-play[Expanded Unit Lists for casual play].
-****
+====
 
 [#army-selector]
 == Forces of Destruction
@@ -41,7 +42,7 @@ One Knights min/max value.
 +
 These units are
 equipped with the repeating crossbow (see
-xref:dark-elves.adoc#crossbowmen-and-dark-riders[Crossbowmen and Dark Riders]).
+xref:armies:dark-elves.adoc#crossbowmen-and-dark-riders[Crossbowmen and Dark Riders]).
 +
 Cold One Chariots
 cannot form brigades except with other units of Cold
@@ -58,7 +59,7 @@ rules as described in the Rulebook.
 can be upgraded to Pestigors for 35 points.
 
 [[weapon-teams,†6]]6. Weapon Teams:: Weapon Teams follow the same
-rules for xref:empire.adoc#skirmishers[Empire Skirmishers], but may only join
+rules for xref:armies:empire.adoc#skirmishers[Empire Skirmishers], but may only join
 Clanrat units.
 +
 Weapon Teams have a shooting range

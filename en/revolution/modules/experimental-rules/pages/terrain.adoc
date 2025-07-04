@@ -1,13 +1,13 @@
 = Terrain
 :page-role: experimental
+:noindex:
 
-****
-Improve terrain rules, intended to replace the xref:rules:movement.adoc#terrain[normal and advanced terrain rules].
+[IMPORTANT]
+====
+*These are experimental terrain rules, intended to replace the xref:rules:movement.adoc#terrain[normal and advanced terrain rules].*
 
-Based on https://drive.google.com/file/d/1Gl4fcOl7QYkriOor2AxVtRr93YrATxCd/view[WMR_Advanced_2.1_beta0.3.pdf].
-
-Discussion: https://wmrexperimental.freeforums.net/thread/406/simplifying-advanced-terrain-keywords[Simplyfying Advanced Terrain].
-****
+Discussion: https://wmrexperimental.freeforums.net/thread/406/simplifying-advanced-terrain-keywords[Simplifying Advanced Terrain].
+====
 
 By terrain we mean woods, hills, rivers and other features of the landscape that might be found on the battlefield. Many of these features can hinder the passage of troops, forcing them out of formation or presenting an unwelcome barrier — chariot wheels get bogged down in marsh, the legs of cavalry become tangled in dense undergrowth, and no regiment would attempt to cross quicksand or lava, though a skilled hero might pick a careful path. On the other hand, infantry can take up defensive positions behind walls or buildings, and a bolt thrower could be hidden amongst bushes on a hillside, but both would have difficulty seeing or hearing the signals of a distant commander.
 
@@ -35,7 +35,7 @@ Impassable terrain:: Units cannot enter Impassable terrain. Characters and flyin
 
 Passable terrain (grassland, moor, meadow, firm desert sand or snow):: _Passable terrain_.
 
-Hills and slopes:: _Passable_ terrain. Higher ground blocks line of sight. Infantry and artillery are defended against any units charging or shooting from lower positions. Artillery units can shoot over friendly units on lower ground (see p.53).
+Hills and slopes:: _Passable_ terrain. Higher ground blocks line of sight. Infantry and artillery are defended against any units charging or shooting from lower positions. Artillery units can shoot over friendly units on lower ground (see xref:rules:artillery-and-machines.adoc#shooting-overhead[Shooting overhead]).
 
 Rough terrain (fields, soft sand):: _Rough_ terrain
 
@@ -72,7 +72,7 @@ High linear obstacles or fortress walls:: These can be found in detail in the ch
 _This table could be added to the “Movement at a Glance” page._
 
 ****
-[%header,format=tsv,cols="h,3*<",frame=none,grid=rows]
+[%header,cols="h,3*<",frame=none,grid=rows]
 |===
 |{empty} |Movement |Protection |Command
 
@@ -109,8 +109,8 @@ Irregular formation
 2cm visibility
 
 |Villages and towns
-|Irregular formation.
-|Unrestricted pursuit.
+|Irregular formation. +
+Unrestricted pursuit.
 |Infantry and artillery defended.
 |−1 Command, +
 2cm visibility
