@@ -3,7 +3,7 @@
 
 [IMPORTANT]
 ====
-*This is an [experimental/additional/something] scenario, probably describe how much testing it has had.
+*This is an [experimental/additional/something] scenario, probably describe how much testing it has had.*
 
 _Compiled by [your name/alias]._
 
