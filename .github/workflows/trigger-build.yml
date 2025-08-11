@@ -11,6 +11,7 @@ jobs:
       - name: Trigger build
         uses: actions/github-script@v6
         with:
+          github-token: ${{ secrets.PAT }}
           script: |
             github.rest.actions.createWorkflowDispatch({
               owner: 'warmaster-info',
