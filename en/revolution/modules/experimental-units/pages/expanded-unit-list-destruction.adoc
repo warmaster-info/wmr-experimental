@@ -121,7 +121,7 @@ fighting to their front.
 +
 Blood Knights are
 exceptionally rare, so [.edit]#the army may only include
-a single unit].
+a single unit#.
 
 [[varghulf,†10]]10. Varghulf:: Varghulfs never suffer the −1 Attack
 modifier due to being flanked in the side or rear.
