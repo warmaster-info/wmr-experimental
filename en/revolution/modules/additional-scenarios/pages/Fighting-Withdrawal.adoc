@@ -3,7 +3,7 @@
 
 [IMPORTANT]
 ====
-*This is an [experimental/additional/something] scenario, probably describe how much testing it has had.*
+*This is an experimental scenario, it has been playtested a few times using Dwarfs, Cathay, and Vampire counts in as as attacker and defender to see a combination of army types in each position. More testing and feedback would be appreciated.*
 
 _Compiled by Tect._
 
