@@ -1,4 +1,4 @@
-= 
+= Take and Hold
 :page-role: experimental
 
 [IMPORTANT]
@@ -13,7 +13,7 @@ Discussion and feedback: https://wmrexperimental.freeforums.net/board/9/complete
 
 Some introductory text...
 
-== Subheading TODO
+== Description
 
 == Scenario 1: Take and hold
 
