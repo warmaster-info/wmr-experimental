@@ -11,8 +11,6 @@ _Compiled by Tect._
 Discussion and feedback: https://wmrexperimental.freeforums.net/board/9/completed-scenarios[Completed scenarios].
 ====
 
-Some introductory text...
-
 == Description
 
 == Fighting Withdrawal
