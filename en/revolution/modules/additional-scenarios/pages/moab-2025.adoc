@@ -1,11 +1,11 @@
-= Main heading TODO
+= 
 :page-role: experimental
 
 [IMPORTANT]
 ====
 *This is an [experimental/additional/something] scenario, probably describe how much testing it has had.*
 
-_Compiled by [your name/alias]._
+_Compiled by Tect._
 
 // Replace with a link or maybe a reference to Discord.
 Discussion and feedback: https://wmrexperimental.freeforums.net/board/9/completed-scenarios[Completed scenarios].
