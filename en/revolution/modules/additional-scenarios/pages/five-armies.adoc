@@ -1,6 +1,6 @@
 = The Battle of Five Armies
 :page-role: experimental
-include:armies:partial$table-attributes.adoc[]
+include::armies:partial$table-attributes.adoc[]
 
 [IMPORTANT]
 ====
