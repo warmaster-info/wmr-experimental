@@ -18,7 +18,7 @@ Discussion and feedback: https://wmrexperimental.freeforums.net/board/9/complete
 A more defensible position has  been identified, and a full disengage ordered. It is a test of metal for a 
 commander to prevent a tactical retreat from turning into a complete rout.
 
-image::hdules/moab-2025/Fighting withdrawal.jpg[width=1324,height=883]
+image::moab-2025/fighting-withdrawal-map.png[width=1296,height=852]
 
 === Attacker’s orders
 

@@ -206,7 +206,7 @@ include::partial$bo5a-scenario-evil.tsv[]
 |===
 
 [.page=68]
-[#scenario-good-special-rules]
+[#scenario-evil-special-rules]
 == Special rules
 
 [[goblins,†1]]1. Goblins:: Goblin infantry and cavalry units fight with a variety of weapons including some bows and thrown weapons such as spears and
