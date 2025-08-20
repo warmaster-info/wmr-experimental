@@ -1,5 +1,6 @@
 = The Battle of Five Armies
 :page-role: experimental
+include:armies:partial$table-attributes.adoc[]
 
 [IMPORTANT]
 ====
@@ -18,12 +19,12 @@ special rules for the Good and Evil armies.
 [.page=66]
 === The Good Army
 
-_The Good side features Elves, Dwarves and Men together wit htheir allies, the Eagles and Beorn._
+_The Good side features Elves, Dwarves and Men together with their allies, the Eagles and Beorn._
 
 The *Elves* live to the west of
 the Lonely Mountain in the
 great forest of Mirkwood. At
-the heard of their woodland
+the heart of their woodland
 realm is a city of caves where
 the Elfking holds count. This
 is where Thorin and the other Dwarves were imprisoned after
@@ -78,7 +79,7 @@ the Goblins from the mountain crags above the Good forces.
 
 *Beorn* is a chiftain of the
 wilds, but he is also a
-shapeshufter able to transform
+shapeshifter able to transform
 into a huge bear. It is in the
 shape of a monstrous bear that
 he joins the Battle of Five
@@ -94,12 +95,12 @@ of Five Armies, organising the council of
 war and directing the forces before the
 Goblin assault.
 
-*The Elfking* – Lord of all the Elves of Mirkwood and a just if
+*The Elfking* is Lord of all the Elves of Mirkwood and a just if
 stern ruler.
 
 *Dáin* is the Lord of the Iron Hills – the leader of the Dwarf army
 and cousin to Thorin. Like all Dwarves he is proud, stubborn,
-hates Goblins and isn’t too found of Elves either.
+hates Goblins and isn’t too fond of Elves either.
 
 *Bard* is the leader of the Men of Laketown and slayer of Smaug
 the Dragon. Grim in manner and intolerant of fools he is brave,
@@ -128,14 +129,14 @@ Command value already include the extra +1 General’s bonus.
 [[elfking,†5]]5. The Elfking:: The Elfking is Lord of the Elves. Because of the animosity between the Elfking and Dwarves, the Elfking cannot issue orders
 to a unit of Dwarves, nor can he issue a brigade order to a group of units than includes a unit of Dwarves.
 
-[[dain,†6]]6. Dáin:: Dáin is the Lord of the dwarves of the Iron Hills. Because of teh animosity between theElfking and the Dwarves, Dáin cannot
+[[dain,†6]]6. Dáin:: Dáin is the Lord of the dwarves of the Iron Hills. Because of the animosity between the Elfking and the Dwarves, Dáin cannot
 issue orders to a unit of Elves, nor can he issue a brigade order to a group that includes Elves.
 
 [[bard,†7]]7. Bard:: Bard is the slayer of Smaug and a famous archer – note that he has a single combat attack and a single shooting bonus attack
 indicated by his Attack values.  He can add this shooting attack to any unit he is with, not just to bowmen.
 
-[[thorin,†8]]8. Thorin:: Thorin is not allowed to give any orders until the wall is broken as described in the special rules for the Battle of Five Armies
-scenario. Once the wall is broken he can give orders to any units, even to Elves. However, Thorin can only give orders to a unit
+[[thorin,†8]]8. Thorin:: Thorin is not allowed to give any orders until the wall is broken as described in the <<thorin-and-the-gate,special rules below>>.
+Once the wall is broken he can give orders to any units, even to Elves. However, Thorin can only give orders to a unit
 he is touching – unlike other a characters he has no command range. This makes him a limited commander but a tremendously
 useful fighter as he adds +3 Attacks to a unit he has joined.
 
@@ -152,7 +153,7 @@ great mountain chains such
 as the Misty Mountains.
 They mostly live beneath the
 earth as they detest sunlight, and when they move above ground
-they shamans create clouds of darkness to shelter them from the
+their shamans create clouds of darkness to shelter them from the
 sun. On the whole, they prefer to go about their evil at night or
 under the shade of dark forests. They hate Elves, Men and
 Dwarves but also each other, for they are bitter creatures full of
@@ -163,7 +164,7 @@ of all shapes and sizes, armed with curved scimitars, bows,
 spears, clubs, etc. They are ill disciplined but savage and take
 great delight in surrounding and destroying less numerous and
 helpless enemies. They are not bold or especially powerful
-warriors but their numbers make them dangerous. They masters
+warriors but their numbers make them dangerous. Their masters
 care little whether they live or die, and are prepared to throw
 away hundreds of Goblins warriors just to wear down the enemy.
 
@@ -172,7 +173,7 @@ by huge and dangerous
 wolves called *Wargs*.
 These are especially large
 and unusually intelligent creatures who have made
-common cause wit the Goblins. The two races share many
+common cause with the Goblins. The two races share many
 things including a test for man-flesh. Wargs live in the wilds
 around and adjoining the Goblin lairs from where they gather
 information that they pass on to the Goblin leaders.
@@ -181,13 +182,13 @@ Some Goblins even ride
 Wards into battle – though it
 is an especially foolhardy
 and daring Goblin that will
-hand onto a Warg’s back as
-it leaps onto its foes biting
+hang onto a Warg’s back as
+it leaps onto its foe, biting
 throats and goring flesh.
 These *Wolf Riders* form an important part of the Evil forces.
 
 *Bolg*, son of Azog, is the leader of the Evil army and the greatest
-of all the other chieftains of the Goblins in the north of the world.
+of all the chieftains of the Goblins in the north of the world.
 His father was slain by the Dwarves in a great battle to the south
 of the Misty Mountains, after which he united all the Goblin
 tribes under his leadership.
@@ -231,7 +232,7 @@ spurs of the Lonely Mountain. The mountain is represented by
 the northern edge of the table and is impassable. This is referred
 to as the ‘mountainous edge’.
 
-The entrance to the Dwarf Halls beneath the mountain lie at the
+The entrance to the Dwarf Halls beneath the mountain lies at the
 point marked Thorin’s gate on the map – use the longer of the
 ruinous Citadel wall sections to represent this.
 
@@ -248,17 +249,17 @@ by placing the spur section over the card. The pool is impassable.
 The course of the River Running is shown on the map. Use the
 card river sections to represent this. The river is impassable
 except at the ford as shown. Note that the ford is 6cm wide and
-can be crossed as open ground. This i the only way to cross the
+can be crossed as open ground. This is the only way to cross the
 river (apart from the Eagles, which can fly across of course).
 
 The ruins of the old town of Dale lie along the southern edge of
 the battlefield along the western river bank. Use the plastic
-Citadel ruin sections to demark the area as shown on the map–
+Citadel ruin sections to demark the area as shown on the map –
 this counts as xref:rules:movement.adoc#broken-ground[broken ground].
 
 image::five-armies/battlefield.svg[width=1428,height=1770,role=column-span]
 
-_*A note on map layout:* If your table is not as wide as the dimensions given above, reduce the
+_**A note on map layout:** If your table is not as wide as the dimensions given above, reduce the
 width of the pool to compensate. If your table is too short, reduced the
 South part of the map._
 
@@ -280,7 +281,7 @@ models are placed on the battlefield at the start of the game.
 The Evil side automatically has the first turn in this battle. In the
 first Evil turn, the Evil player must place all Wolf Rider and
 Warg units plus one Goblin Chieftain at the eastern edge of the
-tabletop along the line marked ’Evil Cavalry’.
+tabletop along the line marked ‘Evil Cavalry’.
 
 Once positioned, any Evil units can be given orders, move,
 shoot, and fight combat that turn as usual.
@@ -337,10 +338,10 @@ deployed, the Eagles and Beorn and potentially deployed at the
 start of any Good turn according to the roll of a dice.
 
 At the start of his turn, the Good player rolls a dice.  If the Good
-force has lost any entire units then add +1 to the decide roll for each
-unit lost. On a 6 (or more) either the Eagles of Beorn can be
+force has lost any entire units then add +1 to the dice roll for each
+unit lost. On a 6 (or more) either the Eagles or Beorn can be
 placed at any point along the western edge of the table marked
-’Eagles/Beorn’ on the map. It will therefore take two successful
+‘Eagles/Beorn’ on the map. It will therefore take two successful
 scores of a 6 to deploy both units and it is possible that one or
 both fail to arrive before the battle is over. Note that there is no
 need to deploy the Eagles before Beorn – the player can decide
@@ -357,7 +358,7 @@ of things.
 
 == Special rules
 
-=== Thorin and The Gate
+=== Thorin and the Gate
 
 Thorin’s Gate is a wall constructed by Thorin and his Dwarves
 in the days before the battle. It completely blocks off the tunnel
@@ -433,16 +434,16 @@ to suffer many casualties trying.
 
 === Gandalf
 
-You have to decide if you’re going to hold out on both sides of
+You have to decide if you’re going to hold out on both sides or
 the river of make a dash across the ford and consolidate your
 forces. With Gandalf accompanying the Elves, and the units
 of Dwarves and Men faced by fast-moving enemy cavalry, this is
 far more likely to succeed by moving the Elves to join their
 allies. This will usually prove the best option – but you don’t
-want the enemy to unit his forces against you – the key to
+want the enemy to unite his forces against you – the key to
 victory is to keep the enemy divided.
 
-You have lots of hood heroes – use some to issue commands and
+You have lots of good heroes – use some to issue commands and
 some to back-up units in combat. Thorin is spectacular – but
 Dáin and the Elfking can make a significant contribution. Don’t
 risk Gandalf unless you’re sure of winning, as a dead Gandalf
@@ -473,8 +474,8 @@ You only need to destroy four units to win – so pick the softest
 targets and hammer them. That means avoid those stubborn
 Dwarves if possible!
 
-Make full use of your Shaman to move units up earl in the battle
-– once combat begins use his _Foul Frenzy_ and _dark Swarm_ spells
+Make full use of your Shaman to move units up early in the battle
+– once combat begins use his _Foul Frenzy_ and _Dark Swarm_ spells
 to improve your chances. Don’t forget Bolg’s Bodyguard, as that
 double Bolg bonus is the biggest bonus in the game and makes
 all the difference.
