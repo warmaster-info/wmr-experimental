@@ -1,4 +1,3 @@
 * Additional Scenarios
 ** xref:index.adoc[]
-** xref:five-armies.adoc[]
 ** xref:moab-2025.adoc[]
