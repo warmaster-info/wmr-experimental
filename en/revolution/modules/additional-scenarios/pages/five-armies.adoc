@@ -7,6 +7,128 @@ include::armies:partial$table-attributes.adoc[]
 *This scenario is from _The Battle of Five Armies_, a Hobbit-themed edition of _Warmaster_. Rules and unit statistics have not been adjusted for _Warmaster Revolution_.*
 ====
 
+[quote,Bilbo Baggins]
+While there’s life there’s hope!
+
+[.page=6]
+== Background
+
+For over two hundred years the former realm of the Dwarves
+of the Lonely Mountain lay in ruins. Its people were
+scattered, its lords reduced to the charity of their kinsfolk, and
+its fabulous treasures gathered into the lair of the most terrible
+of all living dragons. Smaug the Golden was his name and he
+was a creature of immense age, stature and guile.
+
+=== The coming of Smaug
+
+Smaug descended upon the Dwarf realm breathing fire and
+destruction. He burned and flattened the town that lay about the
+mountain and battered his way into the stone halls beneath.
+Dwarves are dour folk who will not easily abandon gold
+or home, but the flames and smoke drove them away. Many died
+as they fled. The Dwarf King was one of those who escaped,
+together with his son Thráin and young grandson Thorin.
+Afterwards, Smaug gathered up all of Thrór’s treasure into the
+largest of the underground halls at the root of the mountain.
+Here he sat upon a bed of gold and slept the long sleep of
+Dragons. The stench and fumes of his fire filled the Dwarf-hewn
+chambers and spilled into the valley of Dale at the foot
+of the Lonely Mountain. All about, the land lay blackened and
+burned and became known as the Desolation of Smaug.
+
+=== The thief Baggins
+
+So things remained for a long time until Thorin Oakenshield,
+son of Thráin, came back to the Lonely Mountain to recover his
+grandfather's treasure. With him were twelve Dwarf
+companions and kinsmen. These were accompanied by the
+wizard Gandalf and the thief Bilbo Baggins, a Hobbit from the
+distant land of the Shire. It was Bilbo who discovered a secret
+passage into the Dragon's lair. By this means he stole a golden
+cup from the hoard and inadvertently aroused Smaug from his slumbers.
+Enraged to discover that his lair had been violated
+whilst he slept, Smaug issued forth from under the mountain
+and scoured its slopes for the impudent thief. After finding and
+eating the ponies and provisions belonging to Thorin and his
+companions, Smaug flew to nearby Laketown. The cunning
+Dragon had rightly surmised that his tormentors had obtained
+aid and supplies from the men that dwelt there. Whilst he had
+little notion exactly how the men of Laketown were involved,
+he did not feel inclined to remain idle whilst thieves conspired
+to steal his treasure (or worse).
+
+So Smaug the Golden met his end. At Laketown he was slain
+by Bard, son of Brand, whose keen arrow found the only bare
+and vulnerable spot in the Dragon's scaled and gem encrusted
+breast. With his heart pieced, Smaug's huge corpse fell from
+the sky into the lake, but not before he had burned and
+destroyed Laketown and slain many of its people as they ran
+before his wrath.
+
+=== The armies gather
+
+Thus was set the scene for one of the greatest battles ever
+fought in the north of Middle-earth, The news of Smaug's
+death soon reached the ears of the Elfking of Mirkwood and
+spread far and wide throughout the lands thereabouts. Warriors
+were quickly mustered and began the march upon the Lonely
+Mountain. It was supposed that the treasure lay unclaimed and
+unguarded – no one knew about Thorin and the Dwarves. The
+Elfking led his warriors east from Mirkwood. Bolg, greatest of
+the Goblin warlords of the north, drove his army south. Bard
+led men from Laketown to the north. Meanwhile the Dwarf
+Lord Dáin marched his armoured warriors westward from their
+home in the Iron Hills. Only Dáin knew that Thorin had taken
+possession of the treasure, and as Thorin's cousin he was
+honour bound to come to his assistance.
+
+Meanwhile Thorin and his band of treasure hunters had
+established themselves in the mountain and fortified its gate –
+for they had no intention of sharing what they regarded as their
+treasure. The sight of all the gold and the prospect of
+reclaiming his grandfather's lost realm had hardened Thorin's
+heart.
+
+When the Elfking's warriors and Bard's men met they made
+common cause and petitioned Thorin for a share of the
+treasure. Thorin stubbornly refused to treat with them. He
+would not even listen to the pleas of Bard who had in fact slain
+the Dragon, whose town had been destroyed, and whose people
+were now homeless and starving as a result. As Thorin saw it,
+he had only to await the arrival of Dáin to avoid all claims upon
+his hoard. He reasoned that once his kinsfolk were beside him
+he would be able to hold out against even the most determined
+enemy. When Dáin did arrive, the Elves quickly deployed to
+prevent the Dwarf army joining forces with Thorin. At first it
+appeared a battle was inevitable, with Men and Elves on one
+side and Dwarves on the other. However, just then something
+happened to completely change things.
+
+=== The Battle of Five Armies
+
+Whilst Dáin had marched steadily westwards, a huge army of
+Goblins and Wargs (ferocious and evilly intelligent wolves)
+had been marching from the north. As Dáin arrived at the
+Lonely Mountain he was not to know that an entire Goblin
+army was already hard upon his heels. It was therefore
+fortunate that just as Elves and Dwarves raised spears and axes,
+the outriders of the Goblin army burst upon them. Whilst Dwarves
+and Elves bear little love for each other this is, of
+course, nothing compared to their loathing of the foul Goblin
+race. A council of war was immediately called between the
+leaders of Men. Elves and Dwarves. The three now allied
+armies quickly deployed upon opposing spurs of the Lonely
+Mountain to await the onslaught of the forces of Bolg
+the Goblin Chieftain. The battle that followed was known ever
+afterwards as the Battle of Five Armies – Dwarves, Elves and
+Men on one side and Goblins and Wargs on the other.
+
+This is, of course, but a bald summary of the events which can
+be read in their entirety in the concluding chapters of The
+Hobbit by JRR Tolkien and with which, I'm sure, most
+readers are already familiar.
+
 [.page=66]
 == The Armies
 
@@ -225,6 +347,427 @@ the Eagles and Beorn and not available to the Good player at the onset and may n
 battle is over. In fact, the Evil side has 600 points of troops available whilst the Good side has only 485 points of
 troops deployed at the start, plus the advantage of position._
 
+[.page=62]
+== Magic
+
+////
+For convenience, we refer to all characters that can cast spells
+as ‘Wizards’. This includes Goblin Shamans and Elven
+Mages as well as genuine Wizards such as Gandalf. We have
+included spells for both Goblin Shamans and Elven Mages for
+the sake of completeness – it being useful to deal with all spell-casting
+and magic in the same place. Magic items are devices
+such as enchanted swords and armour that confer special
+abilities, protection and so on.
+////
+
+////
+[.page=62]
+=== Casting spells
+
+Spells are employed in the Shooting phase and can be cast
+before, after, or intermixed with conventional shooting. In this
+respect it is convenient to think of spells as ‘shooting’ attacks.
+
+Each Wizard character can attempt one spell during that side's
+Shooting phase. Wizards can attempt spells even if they are
+engaged in combat – indeed some spells can only be cast if the
+Wizard is engaged in combat.
+
+Different races use different types of magic spells as described in the
+lists that follow. Begin by selecting which spell you will attempt to
+cast. All spells have a specified maximum range and the target must
+lie within this range as with ordinary shooting. Unlike with ordinary
+shooting, a Wizard does not have to aim his spell at the closest
+potential target: a Wizard can choose any suitable target within
+range. Some spells require that the caster can see the target and some
+do not – this is indicated in the description of each spell. Note that as
+characters, Wizards are assumed to be able to see all round, but line
+of sight can be blocked by unit stands and terrain as usual.
+
+To cast a spell first nominate the target. Roll D6 to
+determine if the spell is cast. The minimum dice score needed
+to cast each spell is indicated in its description – easy spells
+are 4+ (i.e., you need to roll 4, 5 or 6), moderate spells are 5+
+(roll 5 or 6), and hard spells require a 6. If the necessary
+score is rolled, the spell has been cast and takes effect as
+described. If the roll is failed the spell is not cast and there is
+no effect.
+
+The dice roll is sometimes modified, for example the Wizard
+might have a Staff of Power which adds +1 to the dice roll to
+cast a spell. Whatever modifiers apply, a roll of 1 is always a
+failure and a roll of 6 always succeeds.
+////
+
+////
+[.page=62]
+=== Multiple spells
+
+A unit can only ever be affected by the same spell once in any
+turn. A unit has been affected if a spell has worked by rolling
+the appropriate dice score and has not been dispelled. Note
+that a spell might take full effect but still cause no damage –
+a _Dark Swarm_ spell inflicts three shooting attacks for example
+but all three might fail to score hits, or hits might be nullified
+by armour.
+
+The reason why a unit can only be affected by the same spell
+once in any turn is to deliberately keep the influence of magic
+in a supporting role rather than making it a decisive part of
+the game. Using the advanced game rules it is possible to
+field several wizards – but we still want battles to be decided
+by sound tactics and not by the power of sorcery alone.
+////
+
+[.page=62]
+=== Wizards
+
+_These spells are used by true wizards such as Gandalf the Grey._
+
+[#fireball]
+=== Fireball
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Wizard hurls a ball of fire straight at his foes._
+
+The Wizard must have a clear line of sight to his target to cast
+this spell. The spell cannot be directed at a unit that is engaged
+in combat.
+
+The _Fireball_ is worked out exactly like three ordinary shooting
+attacks except that all targets count as having no armour –
+armour has no effect against a _Fireball_. Hits inflicted by a
+_Fireball_ will cause drive backs just like ordinary shooting.
+
+[#command]
+=== Command
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The Wizard's steady voice directs troops above the tumult of war._
+
+This spell can be cast on any friendly unit within range
+regardless of whether the Wizard has a line of sight or not. It
+cannot be cast on a unit that is engaged in combat.
+
+Once this spell is cast upon the unit, it can move immediately
+just as if it had received an order in the Command phase. Note
+that the spell affects only a single unit (it is not a brigade
+order) and any characters with the unit will not move with it.
+
+[#blast]
+=== Blast
+
+[.cost]#5+ to cast# [.points]#Range N/A#
+
+_A blast of sorcerous energy strikes the Wizard's foes._
+
+This spell can only be cast if the Wizard has joined a friendly
+unit that is engaged in combat. The spell can be cast upon any
+one enemy unit that the friendly unit is touching.
+
+The _Blast_ is worked out exactly like three ordinary shooting
+attacks except that all targets count as having no armour –
+armour has no effect against a _Blast_.  Hits inflicted by a _Blast_
+are carried over into the Combat phase and counted towards
+the combat results in the first round.
+
+[#confound]
+=== Confound
+
+[.cost]#6+ to cast# [.points]#Range 60cm#
+
+_By whispering magical words of doubt and dissension
+amongst the target, the Wizard succeeds in enticing the foe
+into squabbling amongst themselves._
+
+This spell can be cast upon any enemy unit within range
+regardless of whether the Wizard can see it or not.
+
+The enemy unit becomes confused as described
+in the xref:rules:confusion.adoc[Confusion rules].
+
+[.page=63]
+=== Goblin shamans
+
+_Goblin magic is a malignant but powerful dark sorcery that gives power over lesser, evil minded creatures._
+
+[#foul-frenzy]
+=== Foul Frenzy
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_The Goblin hordes are driven into a foul frenzy of bloodlust by the intoxicating powers of dark magic._
+
+This spell can be cast on a friendly Goblin infantry or Goblin
+Wolf Rider unit within range regardless of whether the
+Wizard has a line of sight or not. The spell can only be cast at
+a unit that is engaged in combat.
+
+Every stand in the unit, including a character that is fighting
+with the unit, adds +1 to its Attacks value during the first
+round of the following Combat phase.
+
+[#dark-swarm]
+=== Dark Swarm
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_A swarm of dreaded bloodsucking bats and nameless dark
+horrors swirls about the foe and feasts upon the wounded._
+
+This spell can be cast on an enemy unit within range
+regardless of whether the Wizard has a line of sight or not.
+The spell can be cast at a target engaged in combat or at a
+target that is not engaged in combat – it makes no difference.
+
+The Dark Swarm is worked out exactly like three ordinary
+shooting attacks. If the target is not engaged in combat, hits
+inflicted by a _Dark Swarm_ are counted towards drive backs
+just like ordinary shooting. If the target is engaged in combat,
+hits inflicted by a _Dark Swarm_ are carried over into the
+Combat phase and count towards the combat result in the first
+round.
+
+[#faster-you-dogs]
+=== Faster You Dogs
+
+[.cost]#5+ to cast# [.points]#Range 60cm#
+
+_The Shaman's frantic gibbering forces the cowardly Goblin
+ranks forwards against their will._
+
+This spell can be cast upon a friendly Goblin infantry or
+Wolf Rider unit within range regardless of whether the
+Wizard has a line of sight or not. The spell can only be cast at
+a unit that is not engaged in combat.
+
+If the spell is cast upon a unit, it can move immediately just
+as if it had received an order in the Command phase. Note that
+the spell affects only a single unit – it is not a brigade order –
+and any characters with the unit will not move with it.
+
+[.page=63]
+=== Elven Mage
+
+_The Elves are the oldest race of Middle-earth, steeped in magic, incorruptible in spirit and purpose._
+
+[#back-vile-creatures]
+=== Back Vile Creatures
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_The foe quails before the might of the Elven host – scattering
+and losing their will to fight._
+
+The Wizard must have a clear line of sight to his target to cast
+this spell. The spell cannot be directed at a unit engaged in
+combat.
+
+The target unit is not harmed as a result, but is driven back
+by 3D6em at the end of the Shooting phase as if it had taken three
+shooting hits from the Elven Mage. If the unit also suffers hits
+from shooting then the Drive Back roll is combined adding
+three dice for the effect of the spell.
+
+[#terrifying-radiance]
+=== Terrifying Radiance
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_The enemy are confounded by the terrifying radiance of the
+Elven warriors, their weapons slacken in their grasp and they
+whimper pathetically._
+
+This spell can be cast on a friendly unit within range
+regardless of whether the Wizard has a line of sight or not.
+The spell can only be cast on a unit that is engaged in combat.
+
+If the spell is cast upon a unit, it causes _terror_ for the rest of
+the following Combat phase.
+
+[#shoot]
+=== Shoot!
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_Elven archers redouble their efforts as vigour and
+determination steel their worn limbs._
+
+This spell can be cast upon a unit of Elven archers within
+range regardless of whether the Wizard has a line of sight or
+not. The spell cannot be cast on a unit that is engaged in combat.
+
+The unit can shoot immediately regardless of whether it has
+already shot that turn. In effect, the unit can shoot twice this
+turn.
+
+[#conceal]
+=== Conceal
+
+[.cost]#6+ to cast# [.points]#Range 30cm#
+
+_Mystical energies enshroud friends, concealing them amongst
+the shadows._
+
+This spell can be cast upon a unit of Elves within range
+regardless of whether the Wizard has a line or sight or not.
+The spell cannot be cast on a unit that is engaged in combat.
+
+The unit immediately increases its Armour roll by 1 (i.e., if 6+
+it becomes 5+). If the target has no Armour value it now has
+a value of 6+. This lasts for the duration of the enemy's
+following turn and ends at the start of the Good player's
+following turn.
+
+[.page=64]
+== Magic items
+
+Magic items are a reality in Middle-earth. Bilbo's ring is merely
+the most obvious example whilst the swords Sting, Glamdring
+and Orcrist all have a subtler power. Rather than try to devise
+rules for these famous and named examples, the following items
+are broadly representative of weapons, armour and other devices
+that have magical qualities.
+
+Each character can have one magical item. Every item has an
+associated points value and, if a character takes the item, this is
+added to his own value. Not only does this increase the character's
+cost, and therefore reduce the points available for troops, but also, if
+the character is slain, it increases his Victory Points value as well
+(see the rules for xref:rules:end-of-the-battle.adoc#victory-points[The End of The Battle]).
+
+No character can carry more than one magical item and no
+characters on the same side can carry the same magical item.
+For example, if Gandalf has an Enchanted Weapon he cannot have
+any other item and no other character in the army can have an
+Enchanted Weapon.
+
+[#heirloom-of-kings]
+=== Heirloom of Kings
+
+[.cost]#Cost# [.points]#30 pts#
+
+The character can re-roll a failed command
+once in the battle. If the re-roll is successful,
+the command is issued and the character can continue to issue
+commands in the usual way. If the re-roll fails, the command is
+not issued. If the re-roll fails and scores equal to or more than the
+first roll, the character suffers a -1 Command penalty for the rest
+of the battle as his warriors lose faith in him.
+
+[#staff-of-sorcery]
+=== Staff of Sorcery
+
+[.cost]#Cost# [.points]#30 pts#
+
+Only a Wizard can carry a Staff of Sorcery. A
+character that has a Staff of Sorcery can
+attempt to dispel one spell cast by the enemy each turn. Once the
+spell has been cast, but before working out its effect, the Wizard
+can attempt to dispel it. Roll a D6 – a score of 6 indicates the
+spell has been dispelled, otherwise the spell is not dispelled and
+takes effect as normal. However if the player wishes, he can
+count the failed dispel attempt as successful but the Staff of
+Sorcery is then exhausted and cannot be used for the rest of the
+battle. A dispelled spell simply doesn't work – just as if the caster
+had failed the initial casting roll.
+
+[#sorcerous-weapon]
+=== Sorcerous Weapon
+
+[.cost]#Cost# [.points]#20 pts#
+
+The character adds +1 to his Attack bonus.
+This bonus applies for the entire battle. For
+example, if the character has a +2 Attacks bonus he has a +
+3 Attacks bonus if he carries a Sorcerous Weapon.
+
+[#sorcerous-armour]
+=== Sorcerous Armour
+
+[.cost]#Cost# [.points]#10 pts#
+
+When the character fights in combat, the unit
+he is with can re-roll one failed Armour roll in
+each round of combat. This applies throughout the battle – the
+unit can re-roll one failed Armour roll each round. If the unit the
+character has joined has no Armour value then the unit takes a
+single roll each round with a value of 6+.
+
+[#staff-of-power]
+=== Staff of Power
+
+[.cost]#Cost# [.points]#10 pts#
+
+Only a Wizard can carry a staff of power.
+A character that has a Staff of Power can add
++1 to his dice roll to cast a spell. The bonus can only be used
+once in the game but the player can decide to use the staff
+after the dice has been rolled to cast a spell. For example – the
+player requires a roll of 4+ to cast a spell, he rolls a 3 but uses
+the staff to boost the score to 4 and cast the spell.
+
+[#ring-of-invisibility]
+=== Ring of Invisiblity
+
+[.cost]#Cost# [.points]#10 pts#
+
+Many rings were made by the Elves in times
+past and a few still survive to this day – some
+mere trinkets and others dangerous weapons for good or evil.
+
+A character with a Ring of Invisibility can use it to disappear and
+reappear elsewhere, thereby escaping from danger. The ring can
+used at any time, even in the opponent's turn, but only once
+in any battle. The character can immediately move from
+wherever he is to anywhere else on the battlefield, even out of or
+into combat if he wishes. The character can even move through
+enemy units – invisibility allows him to sneak his way past his
+foes without being spotted.
+
+[#enchanted-weapon]
+=== Enchanted Weapon
+
+[.cost]#Cost# [.points]#10 pts#
+
+The first time the character fights in combat
+he adds an extra +1 to his Attack bonus. This
+extra bonus only works in the first Combat phase – so it applies
+for each round of the combat engagement and during any further
+engagements resulting from an advance. For example, a
+character with 2 Attack value will have 3 Attacks throughout the
+first Combat phase of fighting, and 2 Attacks in subsequent turns.
+
+[#mystical-weapon]
+=== Mystical Weapon
+
+[.cost]#Cost# [.points]#5 pts#
+
+The first time the character fights in combat,
+he adds an extra +1 to his Attack bonus. This
+extra bonus only works in the first Combat round – it is a single
++1 bonus that applies only once in the entire game. For example,
+a character with 2 Attack value will have 3 Attacks in the first
+round of the first Combat phase, and 2 Attacks in subsequent
+rounds of that Combat phase and in all future turns.
+
+[#enchanted-armour]
+=== Enchanted Armour
+
+[.cost]#Cost# [.points]#5 pts#
+
+When the character fights in combat, the
+unit he is with can re-roll one failed Armour
+roll in the first round that a hit is scored. This applies only
+once in the entire game and automatically applies the first
+time such a unit takes a hit. If the unit the character has joined
+has no Armour value then the unit takes a single roll with a
+value of 6+.
+
+[.page=69]
 == The Battlefield
 
 The battle takes place in the Valley of Dale that lies between two
@@ -263,6 +806,7 @@ _**A note on map layout:** If your table is not as wide as the dimensions given 
 width of the pool to compensate. If your table is too short, reduced the
 South part of the map._
 
+[.page=69]
 == Deployment
 
 All the Elven units must be set up on the Western Spur within the
@@ -276,6 +820,7 @@ Beorn.
 The Evil army enters the game during the first turn – no Evil
 models are placed on the battlefield at the start of the game.
 
+[.page=69]
 === Evil Cavalry deployment
 
 The Evil side automatically has the first turn in this battle. In the
@@ -286,6 +831,7 @@ tabletop along the line marked ‘Evil Cavalry’.
 Once positioned, any Evil units can be given orders, move,
 shoot, and fight combat that turn as usual.
 
+[.page=69]
 === Evil Infantry deployment
 
 Following the first turn, evil units are deployed according to the
@@ -306,6 +852,7 @@ on the table then these must be deployed as well. Note that a dice
 roll greater than the number of remaining units means that all the
 units are placed – it is not necessary to roll an exact number.
 
+[.page=69]
 === The Evil ambush
 
 Bolg, the Goblin commander, has cunningly sent a small group
@@ -330,6 +877,7 @@ Note that ambushers are positioned above the Good units – so
 their targets do not count as defended but as in the open (i.e. 4+
 to hit).
 
+[.page=69]
 === Deploying the Eagles & Beorn
 
 Neither the Eagles nor Beorn can attempt to join the battle until all
@@ -356,8 +904,10 @@ The Eagles can home back and can therefore move without
 orders if necessary – this is useful for moving them into the thick
 of things.
 
+[.page=70]
 == Special rules
 
+[.page=70]
 === Thorin and the Gate
 
 Thorin’s Gate is a wall constructed by Thorin and his Dwarves
@@ -374,6 +924,7 @@ Command phase. Once the wall is collapsed Thorin can move
 normally and can issue orders to Good units as noted under
 the rules for Thorin.
 
+[.page=70]
 === Eagles and Ambushers
 
 Once the Eagles have been deployed, the Evil ambush ends
@@ -383,6 +934,7 @@ heights. Note that this means that the Evil side always gets one
 turn to drop rocks before the good side makes its first roll to see
 if the Eagles arrive.
 
+[.page=71]
 == Victory
 
 The battle lasts until one side is forced to withdraw. This happens
@@ -410,6 +962,7 @@ the Good side and once in charge of the Evil side. This means
 that the players’ combined scores can be used to compare
 performance when commanding both armies.
 
+[.page=71]
 == A note on magic items
 
 Magic items have been taken into account by adjusting the
@@ -421,6 +974,7 @@ from the <<magic-item-list>>. In this case, reduce Gandalf’s and
 Thorin’s Attack values by 1 each and allow the Good side to have
 up to 50 points of magic items instead.
 
+[.page=71]
 == Tactical notes
 
 This battle can look very desperate for the Good side –
@@ -432,6 +986,7 @@ Gandalf and friends, in fact their position is strong – the Evil side
 will do well to prise their enemies from the slopes and are likely
 to suffer many casualties trying.
 
+[.page=71]
 === Gandalf
 
 You have to decide if you’re going to hold out on both sides or
@@ -457,6 +1012,7 @@ in any order but it is usually more useful to have the Eagles.
 These are great for mopping up the odd stands of cavalry that
 tend to evade and hide.
 
+[.page=71]
 === Bolg
 
 You have numbers on your side but your foes are well positioned
@@ -480,6 +1036,7 @@ to improve your chances. Don’t forget Bolg’s Bodyguard, as that
 double Bolg bonus is the biggest bonus in the game and makes
 all the difference.
 
+[.page=72]
 === And for the new player…
 
 Don’t worry about getting every rule right – it will take a few
