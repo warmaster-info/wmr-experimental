@@ -7,7 +7,7 @@ include::partial$moab-2025-notice.adoc[]
 
 The dust has settled and the dead buried. As dawn rises, two weary forces stare greedily at their enemy's supply tents.  After such a battle, surely they cannot hope to defend them.
 
-image::moab-2025/dawn-raid.svg[width=1300,height=862]
+image::moab-2025/dawn-raid.svg[width=1440,height=960]
 
 == Attacker’s orders
 
@@ -35,7 +35,7 @@ the rest of the army.
 
 === Reserves
 
-See xref:moab.adoc#reserves[Reserves] in the campaign introduction.
+See xref:moab-2025.adoc#reserves[Reserves] in the campaign introduction.
 
 === Reinforcements
 
@@ -46,7 +46,7 @@ battlefield edge, or one of the sides.
 At the beginning of each player's third turn, their other reserve
 force must enter from a different edge.
 
-include::partial$moab-reinforcements.adoc[]
+include::partial$moab-2025-reinforcements.adoc[]
 
 === Camps
 
@@ -70,3 +70,5 @@ At the end of the battle:
 * Each player scores 1 victory point for each camp that survives the battle
 * Each player scores 2 victory points for each enemy camp destroyed
 * Each player scores 3 victory points for each friendly unit carrying loot from an enemy camp.
+
+_The campaign continues with xref:moab-2025-4-meeting-engagement.adoc[]._

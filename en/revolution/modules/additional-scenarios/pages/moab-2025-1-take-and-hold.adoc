@@ -6,7 +6,7 @@ include::partial$moab-2025-notice.adoc[]
 Neither side has yet taken a strong position.  Both forces will jockey for resources, defendable positions and
 points of strategic interest. The final positions of each force after the dust settles will decide the course of the battles to come.
 
-image::moab-2025/take-and-hold.svg[width=1300,height=862]
+image::moab-2025/take-and-hold.svg[width=1440,height=960]
 
 == Attacker’s orders
 
@@ -49,4 +49,4 @@ they earn:
   Victory Point if their general has joined a
   unit that controls an Objective Point.
 
-_The campaign continues with xref:moab-2-fighting-withdrawal.adoc[]_
+_The campaign continues with xref:moab-2025-2-fighting-withdrawal.adoc[]_

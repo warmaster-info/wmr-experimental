@@ -6,7 +6,7 @@ include::partial$moab-2025-notice.adoc[]
 Scouts have identified a more defendible position, so the general orders his army to disengage.
 It is a test of mettle for a commander to prevent a tactical retreat from turning into a panicked stampede.
 
-image::moab-2025/fighting-withdrawal.svg[width=1300,height=862]
+image::moab-2025/fighting-withdrawal.svg[width=1440,height=960]
 
 == Attacker’s orders
 
@@ -26,11 +26,11 @@ Mark out three 10cm wide sections of the defending player’s battlefield edge a
 
 === Retreat!
 
-Each turn, a single defending unit can leave the battle from each Withdrawal Zone.
-
-At the end of each of each battle round, a single defending unit with all of its remaining stands within 10cm of a Withdrawal Zone is removed from the board. Any characters who have joined a unit that is removed leave with them.
+At the end of #each player's, or the defending player's?# turn, a single defending unit with all of its remaining stands within 10cm of a Withdrawal Zone is removed from the board. Any characters who have joined a unit that is removed leave with them.
 
 Alternatively, if a character is within 10cm of an exit, they may be removed from the battlefield instead.
+
+Each Withdrawal Zone can be used only once per turn.
 
 Units and characters that leave the battlefield this way do not count as slain, nor do they count towards the defender’s break point.
 
@@ -44,4 +44,4 @@ At the end of the battle:
 * The attacker scores 1 victory point for each 100 points worth of the enemy army that has been slain.
 * Either player also scores 2 points for each Objective Point they control.
 
-_The campaign continues with xref:moab-3-dawn-raid.adoc[]._
+_The campaign continues with xref:moab-2025-3-dawn-raid.adoc[]._

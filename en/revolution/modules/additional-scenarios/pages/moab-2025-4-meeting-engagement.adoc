@@ -37,7 +37,7 @@ force will enter the battlefield from one of their reinforcement zones.
 At the beginning of each player's third turn, their other reserve
 force must enter from the other zone.
 
-include::partial$moab-reinforcements.adoc[]
+include::partial$moab-2025-reinforcements.adoc[]
 
 == Winning the battle
 

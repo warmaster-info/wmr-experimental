@@ -13,15 +13,15 @@ Discussion and feedback: https://wmrexperimental.freeforums.net/board/9/complete
 
 == Army building considerations
 
-The campaign is designed to be played with a single, 2,000 point _Warmaster Revolution_ army.  Army lists are the same for every scenario.
+The campaign is designed to be played with a single, 2,000 point _Warmaster Revolution_ army for each player.  Army lists are the same for every scenario.
 
 Regiments of Renown may be selected according to the xref:armies:regiments-of-renown.adoc[usual selection rules].
 
 While selecting an army list, consider the following:
 
-* Armies will deploy using the xref:rules:battlefields.adoc#scouting[*scouting rules*].  Scouting units should be marked in army lists, and are the same for each battle.
+* Armies will deploy using the xref:rules:battlefields.adoc#scouting[*scouting rules*].  Scouting units and their points totals should be marked in army lists, and will be the same for each battle.
 
-* The winner of the scouting roll is always the Attacker.
+* The winner of the scouting roll is always the Attacker in each scenario.
 
 == Reserves
 
@@ -29,7 +29,7 @@ Some battles in these scenarios involve forces being delayed or caught unprepare
 arriving piecemeal to the battlefield.  When writing the army list, nominate two Characters to lead the
 reserve forces.  The General may not be selected.
 
-Then select which units in the army will accompany the *Reserve Leaders*.  This will result in your
+Then select which units in the army will accompany the *Reserve Leaders*.  This will result in the
 overall army containing a core with a general, and two reserve forces with a character in each.
 
 * Units that are committed to scouting may not be placed in reserve
@@ -43,11 +43,11 @@ The scenarios in this campaign refer to several kinds of objectives, some will b
 
 === Objective Point
 
-An Objective Point is a 3cm diameter circle of impassable terrain. Objective markers do not block line of sight.
+An Objective Point is a 3cm diameter circle of impassable terrain. Objective Points do not block line of sight.
 
 A unit controls an Objective Point if it fulfils the following criteria:
 
-* #Any part of it?# is within 5cm of the #edge/centre?# of the token
+* #Any part of it?# is within 5cm of the edge of the token
 * It is not confused.
 * It is not a flyer.
 
@@ -83,30 +83,30 @@ An army’s break point remains the same regardless of how many of their units h
 
 At the 2025 MOAB tournament, players were scored based on their total wins, losses, and draws. Tiebreakers were determined as per the following points system:
 
-[columns="3,7,1",grid=rows,frame=none]
+[cols="3,7,1",grid=rows,frame=none]
 |===
 |Crushing Victory
 |The player won and scored at least double the VP of their opponent.
 |6
 
-|Clear Victory:
-|You won and scored higher than your opponent.
+|Clear Victory
+|The player won and scored higher than your opponent.
 |5
 
-|Pyrrhic Victory:
-|The game resulted in a draw, but you had a higher VP total.
+|Pyrrhic Victory
+|The game resulted in a draw, but the player had a higher VP total.
 |4
 
-|Valiant Defeat:
-|The game resulted in a draw, but you had a lower VP total.
+|Valiant Defeat
+|The game resulted in a draw, but the player had a lower VP total.
 |3
 
-|Close Defeat:
-|You lost but scored more than half the VP of your opponent.
+|Close Defeat
+|The player lost but scored more than half the VP of their opponent.
 |2
 
-|Decisive Defeat:
-|You lost and scored less than half the VP of your opponent.
+|Decisive Defeat
+|The player and scored less than half the VP of their opponent.
 |1
 |===
 
@@ -114,8 +114,8 @@ At the 2025 MOAB tournament, players were scored based on their total wins, loss
 
 These five scenarios form the campaign:
 
-* xref:moab-2025-1-take-and-hold.adoc[]
-* xref:moab-2025-2-fighting-withdrawal.adoc[]
-* xref:moab-2025-3-dawn-raid.adoc[]
-* xref:moab-2025-4-meeting-engagement.adoc[]
-* xref:moab-2025-5-the-end-times.adoc[]
+. xref:moab-2025-1-take-and-hold.adoc[]
+. xref:moab-2025-2-fighting-withdrawal.adoc[]
+. xref:moab-2025-3-dawn-raid.adoc[]
+. xref:moab-2025-4-meeting-engagement.adoc[]
+. xref:moab-2025-5-the-end-times.adoc[]

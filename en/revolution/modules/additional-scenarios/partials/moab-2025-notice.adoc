@@ -1,5 +1,7 @@
 [NOTE]
 ====
+*Draft page, not yet finished!*
+
 This scenario is part of the xref:moab-2025.adoc[MOAB 2025 campaign], which has rules for army selection and objectives.
 
 _Compiled by Tect._
