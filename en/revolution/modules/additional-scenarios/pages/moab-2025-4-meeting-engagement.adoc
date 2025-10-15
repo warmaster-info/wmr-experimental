@@ -27,7 +27,7 @@ as indicated on the diagram.
 
 === Reserves
 
-See xref:moab.adoc#reserves[Reserves] in the campaign introduction.
+See xref:moab-2025.adoc#reserves[Reserves] in the campaign introduction.
 
 === On the march
 
@@ -50,3 +50,5 @@ At the end of the game, each player earns:
 
 * 2 Victory Points if they have a non-flying unit wholly within their enemy's 
 deployment zone that is not confused, and there are no enemy units in their own deployment zone.
+
+_The campaign continues with xref:moab-2025-5-the-end-times.adoc[]._

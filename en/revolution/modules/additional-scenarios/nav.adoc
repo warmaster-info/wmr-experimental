@@ -1,3 +1,8 @@
 * Additional Scenarios
 ** xref:index.adoc[]
 ** xref:moab-2025.adoc[]
+*** xref:moab-2025-1-take-and-hold.adoc[]
+*** xref:moab-2025-2-fighting-withdrawal.adoc[]
+*** xref:moab-2025-3-dawn-raid.adoc[]
+*** xref:moab-2025-4-meeting-engagement.adoc[]
+*** xref:moab-2025-5-the-end-times.adoc[]
