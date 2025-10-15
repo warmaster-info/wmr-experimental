@@ -1,0 +1,47 @@
+= Fighting Withdrawal
+:page-role: experimental
+
+include::partial$moab-2025-notice.adoc[]
+
+Scouts have identified a more defendible position, so the general orders his army to disengage.
+It is a test of mettle for a commander to prevent a tactical retreat from turning into a panicked stampede.
+
+image::moab-2025/fighting-withdrawal.svg[width=1300,height=862]
+
+== Attacker’s orders
+
+The enemy flees! Take the initiative and cut them down before they can take up a defensive position. Smash through their rearguard and turn this retreat into a rout.
+
+== Defender’s orders
+
+You must cover your withdrawal as the army falls back to the next defensible position. The roads are narrow so you must hold your ground until the rest of the army gets clear.
+
+== Preparing for battle
+
+Following the scouting roll the attacker deploys their scouting units as usual.  The attacker then places three xref:moab.adoc#objective-points[Objective Points] in the defender’s deployment zone. These Objective Points must not be placed within 20cm of a battlefield edge, or each other.
+
+Mark out three 10cm wide sections of the defending player’s battlefield edge as depicted on the map.  These are the defender's Withdrawal Zones.
+
+== Mission special rules
+
+=== Retreat!
+
+Each turn, a single defending unit can leave the battle from each Withdrawal Zone.
+
+At the end of each of each battle round, a single defending unit with all of its remaining stands within 10cm of a Withdrawal Zone is removed from the board. Any characters who have joined a unit that is removed leave with them.
+
+Alternatively, if a character is within 10cm of an exit, they may be removed from the battlefield instead.
+
+Units and characters that leave the battlefield this way do not count as slain, nor do they count towards the defender’s break point.
+
+A unit may not leave the battlefield if it is within 20cm of an enemy unit.
+
+== Winning the battle
+
+At the end of the battle:
+
+* The defender scores 1 victory point for each 100 points worth of units and characters that successfully left the battlefield.
+* The attacker scores 1 victory point for each 100 points worth of the enemy army that has been slain.
+* Either player also scores 2 points for each Objective Point they control.
+
+_The campaign continues with xref:moab-3-dawn-raid.adoc[]._

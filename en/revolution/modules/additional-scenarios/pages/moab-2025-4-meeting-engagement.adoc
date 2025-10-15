@@ -1,0 +1,52 @@
+= Meeting Engagement
+:page-role: experimental
+
+include::partial$moab-2025-notice.adoc[]
+
+Two forces on the march make contact without warning.  Horns blare and generals signal their captains to
+join the fray.  In the centre units wrestle for position while reinforcements swirl around the flanks.
+
+image::moab-2025/meeting-engagement.svg[width=1440,height=960]
+
+== Attacker’s orders
+
+Your scouts have detected the enemy on the march.  Gather your forces
+and surround the enemy before they can form a battle line.
+
+== Defender’s orders
+
+You have been caught on the march, bu the enemy's forces are as unprepared as your own.
+Do not let your forces be taken off-guard.
+
+== Preparing for battle
+
+Mark three xref:moab.adoc[Objective Zones] across the centre line of the battlefield, between each player's deployment zone
+as indicated on the diagram.
+
+== Mission special rules
+
+=== Reserves
+
+See xref:moab.adoc#reserves[Reserves] in the campaign introduction.
+
+=== On the march
+
+At the beginning of each player's second turn, one reserve
+force will enter the battlefield from one of their reinforcement zones.
+
+At the beginning of each player's third turn, their other reserve
+force must enter from the other zone.
+
+include::partial$moab-reinforcements.adoc[]
+
+== Winning the battle
+
+Starting from the end of each player's third turn they earn:
+
+* 2 Victory Points for controlling each Objective Zone
+* 3 additional Victory Points if they control all three Objective Zones
+
+At the end of the game, each player earns:
+
+* 2 Victory Points if they have a non-flying unit wholly within their enemy's 
+deployment zone that is not confused, and there are no enemy units in their own deployment zone.

@@ -1,0 +1,20 @@
+Before the start of the game, the players must note (in secret) the order
+their reserves will arrive, and where they will come from.
+
+When a reserve force enters the battlefield, the leader is first
+placed anywhere within 5cm of the battlefield edge.  Then, each 
+unit is placed with all stands in contact with the battlefield 
+edge and moves up to its ordinary movement distance as if it had
+received a successful order.  Place each unit this way one at a time.
+Units cannot make a charge move or a supporting charge move this way.
+
+Once the reserve units have been deployed, the player begins their Command Phase.
+
+Units that entered from reserves can receive orders in the following Command Phase,
+and are considered to have received a succsesful order from their reserve leader, meaning 
+on the turn they enter:
+
+* They can only received orders from the reserve leader
+* They receive a -1 Command penalty
+* They can only receive two more orders
+* They may not make initiative moves

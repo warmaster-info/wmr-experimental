@@ -1,0 +1,52 @@
+= Take and Hold
+:page-role: experimental
+
+include::partial$moab-2025-notice.adoc[]
+
+Neither side has yet taken a strong position.  Both forces will jockey for resources, defendable positions and
+points of strategic interest. The final positions of each force after the dust settles will decide the course of the battles to come.
+
+image::moab-2025/take-and-hold.svg[width=1300,height=862]
+
+== Attacker’s orders
+
+Your scouts have come upon an enemy force
+that is beginning to establish a strong position.
+Take the ground from them before they can
+establish a foothold.
+
+== Defender’s orders
+
+The enemy is upon you sooner than expected.
+Do not surrender the ground to them: this
+location is vital to continued operations in this
+region.
+
+== Preparing for battle
+
+Before making the scouting roll, players take turns
+placing four xref:moab.adoc#objective-points[Objective Points] starting with the
+player with the highest Scouting Points total.
+
+First, each player places an Objective Point on the
+centre line.
+
+Then each player places an Objective Point on the
+line on their *opponent’s* side of the battlefield.
+
+== Winning the battle
+
+Starting from the end of each player’s third turn
+they earn:
+
+* 1 Victory Point for controlling the Objective Point
+  on their side of the table.
+* 2 Victory Points for controlling the Objective Point
+  in the centre of the table.
+* 3 Victory Points for controlling the Objective Point
+  on their opponent’s side of the table.
+* Each player also earns an additional 1
+  Victory Point if their general has joined a
+  unit that controls an Objective Point.
+
+_The campaign continues with xref:moab-2-fighting-withdrawal.adoc[]_

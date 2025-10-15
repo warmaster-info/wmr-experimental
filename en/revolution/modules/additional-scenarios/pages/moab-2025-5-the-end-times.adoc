@@ -1,0 +1,38 @@
+= The End Times
+:page-role: experimental
+
+include::partial$moab-2025-notice.adoc[]
+
+It comes down to this: both forces are all but spent, and the generals themselves prepared to spend their lives. Their lives will be forfeit in defeat, so let them be forfeit with honour! Cut them down.
+
+image::moab-2025/the-end-times.svg[width=1440,height=960]
+
+== Attacker’s and defender’s orders
+
+Leave no survivors.
+
+== Preparing for battle
+
+Set up as usual.
+
+== Mission special rules
+
+=== Honour or Death
+
+Each time an enemy unit is slain by a unit the general has joined, that unit is worth twice the 
+usual number of victory points.
+
+Unlike the usual rules for withdrawal, an army does not break if the General is slain.
+
+== Winning the battle
+
+At the end of the battle:
+
+* Each player scores 1 Victory Point for every 100 points of the opposing side that 
+has been slain, including characters and magic items
+
+* Each player scores 2 victory points if the enemy general has been slain
+
+* Each player scores a further 2 victory points if their own general was part of the *unit* in direct combat that slew the enemy general.  (A general in a unit providing support, or fighting elsewhere in a larger combat engagement, is not sufficient.)
+
+

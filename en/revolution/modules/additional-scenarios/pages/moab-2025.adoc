@@ -1,64 +1,121 @@
-= Take and Hold
+= MOAB 2025
 :page-role: experimental
 
-[IMPORTANT]
+[NOTE]
 ====
-*This is an [experimental/additional/something] scenario, probably describe how much testing it has had.*
-
-_Compiled by Tect._
+*This campaign of five scenaries was written by Tect for the the MOAB 2025 tournament in Australia.*
 
 // Replace with a link or maybe a reference to Discord.
 Discussion and feedback: https://wmrexperimental.freeforums.net/board/9/completed-scenarios[Completed scenarios].
 ====
 
-Some introductory text...
+#TODO Oct 2025: Perhaps add some prose to introduce the whole campaign?#
 
-== Description
+== Army building considerations
 
-== Scenario 1: Take and hold
+The campaign is designed to be played with a single, 2,000 point _Warmaster Revolution_ army.  Army lists are the same for every scenario.
 
-Neither side has yet taken a strong position. Both forces will jockey for resources, defendable positions, and
-points of strategic interest. The final positions of each force after the dust settles will decide the course of the
-battles to come.
+Regiments of Renown may be selected according to the xref:armies:regiments-of-renown.adoc[usual selection rules].
 
-image::moab-2025/take-and-hold.svg[width=1324,height=883]
+While selecting an army list, consider the following:
 
-=== Attacker’s orders
+* Armies will deploy using the xref:rules:battlefields.adoc#scouting[*scouting rules*].  Scouting units should be marked in army lists, and are the same for each battle.
 
-Your scouts have come upon an enemy force
-that is beginning to establish a strong position.
-Take the ground from them before they can
-establish a foothold.
+* The winner of the scouting roll is always the Attacker.
 
-=== Defender’s orders
+== Reserves
 
-The enemy is upon you sooner than expected,
-do not surrender the ground to them, this
-location is vital to continued operations in this
-region.
+Some battles in these scenarios involve forces being delayed or caught unprepared, with armies
+arriving piecemeal to the battlefield.  When writing the army list, nominate two Characters to lead the
+reserve forces.  The General may not be selected.
 
-=== Preparing for battle
+Then select which units in the army will accompany the *Reserve Leaders*.  This will result in your
+overall army containing a core with a general, and two reserve forces with a character in each.
 
-Before making the scouting roll, players take turns
-placing four Objective Points starting with the
-player with the highest Scouting Points total.
-First, each player places an Objective Point on the
-centre line.
+* Units that are committed to scouting may not be placed in reserve
+* No more than 900 points may be allocated to reserves
+* In order for a list to be valid, it must contain at least three characters
+* Units committed to reserves cannot ambush or outflank
 
-Then each player places an Objective Point on the
-line on their *opponent’s* side of the table.
+== Mission objectives
 
-=== Winning the battle
+The scenarios in this campaign refer to several kinds of objectives, some will be described in the scenario rules, while others are described here.
 
-Starting from the end of each player’s third turn
-they earn:
+=== Objective Point
 
-* 1 Victory Point for controlling the Objective
-  Point on their side of the table.
-* 2 Victory Points for controlling the Objective
-  Point in the centre of the table.
-* 3 Victory Points for controlling the Objective
-  Point on their opponent’s side of the table.
-* Each player also earns an additional 1
-  Victory Point if their general is attached to a
-  unit that is holding an objective.
+An Objective Point is a 3cm diameter circle of impassable terrain. Objective markers do not block line of sight.
+
+A unit controls an Objective Point if it fulfils the following criteria:
+
+* #Any part of it?# is within 5cm of the #edge/centre?# of the token
+* It is not confused.
+* It is not a flyer.
+
+If two opposing, eligible units are within 5cm of an objective, neither player controls it.
+
+* A character may join a unit on an objective to break a tie.
+
+If two opposing, eligible units are both joined by characters, neither player controls the objective.
+
+=== Objective Zone
+
+An Objective Zone is a circular area with a 20cm radius #(Radius, really? Diagrams look more like 20cm diameter)#.
+
+All units wholly within the Objective Zone add up their total points cost (including characters and upgrades). The player with the highest total points within a zone is considered to be controlling it.
+
+Note that even a unit with a single stand offers its full points cost to the total.
+
+Note also that summoned units (i.e. skeleton units created with the Raise Dead spell, #fenbeast?#) do not contribute to the total.
+
+If both players have an identical total number of points within an objective zone, neither player controls the objective.
+
+== End of the battle
+
+Follow the usual rules for slain generals and army casualties with the following addendum:
+
+* When a player’s army withdraws, any points that would be scored at the end of that turn are still earned.
+* A player whose army has withdrawn can never win the game but may still draw.
+* In each scenario, breaking the enemy will score an additional 3 points.
+
+An army’s break point remains the same regardless of how many of their units have left the field, or are yet to enter. In battles where reserves are in play, consider only the break point of the entire army list when counting slain enemy units.
+
+== Scoring
+
+At the 2025 MOAB tournament, players were scored based on their total wins, losses, and draws. Tiebreakers were determined as per the following points system:
+
+[columns="3,7,1",grid=rows,frame=none]
+|===
+|Crushing Victory
+|The player won and scored at least double the VP of their opponent.
+|6
+
+|Clear Victory:
+|You won and scored higher than your opponent.
+|5
+
+|Pyrrhic Victory:
+|The game resulted in a draw, but you had a higher VP total.
+|4
+
+|Valiant Defeat:
+|The game resulted in a draw, but you had a lower VP total.
+|3
+
+|Close Defeat:
+|You lost but scored more than half the VP of your opponent.
+|2
+
+|Decisive Defeat:
+|You lost and scored less than half the VP of your opponent.
+|1
+|===
+
+== The campaign
+
+These five scenarios form the campaign:
+
+* xref:moab-2025-1-take-and-hold.adoc[]
+* xref:moab-2025-2-fighting-withdrawal.adoc[]
+* xref:moab-2025-3-dawn-raid.adoc[]
+* xref:moab-2025-4-meeting-engagement.adoc[]
+* xref:moab-2025-5-the-end-times.adoc[]

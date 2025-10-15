@@ -1,0 +1,72 @@
+= Dawn Raid
+:page-role: experimental
+
+include::partial$moab-2025-notice.adoc[]
+
+// After a bloody battle didn't make much sense following the withdrawal scenario?
+
+The dust has settled and the dead buried. As dawn rises, two weary forces stare greedily at their enemy's supply tents.  After such a battle, surely they cannot hope to defend them.
+
+image::moab-2025/dawn-raid.svg[width=1300,height=862]
+
+== Attacker’s orders
+
+You must sweep the enemy aside and claim the
+spoils you rightfully earned.  Their reinforcements
+have crawled out of their hovels, your time is 
+short, but your second wave is already preparing.
+
+== Defender’s orders
+
+Your reinforcements have not yet arrived, but nor
+have the enemy's.  Your supplies are insufficient
+to feed your army and its reinforments. Raid the 
+enemy's supplies before their reinforcements arrive.
+
+== Preparing for battle
+
+After making the scouting roll, each player places two Camp
+tokens within their enemy's deployment zone.
+
+Units in each player's reserves are not deployed along with
+the rest of the army.
+
+== Mission special rules
+
+=== Reserves
+
+See xref:moab.adoc#reserves[Reserves] in the campaign introduction.
+
+=== Reinforcements
+
+At the beginning of each player's second turn, one reserve
+force will enter the battlefield from either their own
+battlefield edge, or one of the sides.
+
+At the beginning of each player's third turn, their other reserve
+force must enter from a different edge.
+
+include::partial$moab-reinforcements.adoc[]
+
+=== Camps
+
+Each Camp acts as an immobile stand of infantry with 5 Attacks,
+5 Hits and a 5+ Armour save.  It does not have sides or a rear, and it
+is always considered Defended.
+
+A camp can both provide support and receive support in the same 
+manner as infantry.
+
+If a Camp loses a round of combat or suffers 5 #saved?# hits it is destroyed
+and removed from the battlefield.
+
+When a Camp is destroyed, select one unit that made an attack against it (if any)
+and place a marker to show it is carrying the loot from the camp.
+
+== Winning the battle
+
+At the end of the battle:
+
+* Each player scores 1 victory point for each camp that survives the battle
+* Each player scores 2 victory points for each enemy camp destroyed
+* Each player scores 3 victory points for each friendly unit carrying loot from an enemy camp.

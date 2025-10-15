@@ -1,5 +1,5 @@
 = Introduction
 
-This section contains additional scenarios.  Some scenarios are well-tested and intended for tournament use, others are for casual play.
+This section contains additional scenarios, or campaigns consisting of multiple scenarios.  Some scenarios are well-tested and intended for tournament use, others are for casual play.
 
 Refer to each scenario for details.

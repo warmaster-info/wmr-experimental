@@ -1,0 +1,9 @@
+[NOTE]
+====
+This scenario is part of the xref:moab-2025.adoc[MOAB 2025 campaign], which has rules for army selection and objectives.
+
+_Compiled by Tect._
+
+// Replace with a link or maybe a reference to Discord.
+Discussion and feedback: https://wmrexperimental.freeforums.net/board/9/completed-scenarios[Completed scenarios].
+====
