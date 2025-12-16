@@ -2,7 +2,7 @@ Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
 Elfen	Infantry 	3 	3 	5 	– 	3 	60 	2/– 	–
 Wichtel	Infantry	2/1 	3 	5 	– 	3 	55 	1/– 	<<wichtel>>
 Mail Order Trolls	Infantry	5 	3 	5 	– 	3 	110 	–/3 	<<mail-order-trolls>>
-Grüne Zipfelmützen	Charriot	3 	3 	5 	– 	3 	110 	–/3 	<<grüne-zipfelmützen>>
+Grüne Zipfelmützen	Chariot	3 	3 	5 	– 	3 	110 	–/3 	<<grüne-zipfelmützen>>
 Polar Bears	Monster	5 	3 	– 	– 	3 	85 	–/1 	<<polar-bears>>
 Christmas Trees	Monster	3 	4 	4 	– 	3 	125 	–/1 	<<christmas-trees>>
 Ghost	Monster	– 	– 	– 	– 	1 	100 	–/1 	<<ghost>>
