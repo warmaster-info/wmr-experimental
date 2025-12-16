@@ -40,7 +40,7 @@ over after removing whole stands then regeneration has no
 effect. Regenerated hits still count towards the combat result
 for the round.
 
-[[grüne-zipfelmützen,†3]]Grüne Zipfelmützen:: The sleighs can fly
+[[grüne-zipfelmützen,†3]]3. Grüne Zipfelmützen:: The sleighs can fly
 and are therefore treated as any other flyer,
 but also get the additional +1 Attack for chariots
 when charging an enemy in open terrain. (Note
@@ -49,7 +49,7 @@ units on castle walls and such, but those
 units still count as fortified as stated in the
 siege rules).
 
-[[polar-bears,†4]]Polar Bears:: Although they are monsters, Polar Bears
+[[polar-bears,†4]]4. Polar Bears:: Although they are monsters, Polar Bears
 are mounted facing the long edge of the
 base, like infantry.
 +
@@ -78,7 +78,7 @@ Bears must always pursue
 retreating enemy where possible and must
 advance if they are able to do so.
 
-[[christmas-trees,†5]]Christmas Trees:: Although they are
+[[christmas-trees,†5]]5. Christmas Trees:: Although they are
 monsters, Christmas Trees are mounted
 facing the long edge of the base like
 infantry.
@@ -109,7 +109,7 @@ the Undead – old habbits die hard – hope for
 presents. Even if they do not believe in
 Christmas, they still hope).
 
-[[ghosts,†6]]Ghosts:: Ghosts can only brigade with
+[[ghost,†6]]6. Ghost:: A Ghost can only brigade with
 other Ghosts.
 +
 Ghosts are ethereal
@@ -131,7 +131,7 @@ Enemy units can
 neither charge nor move through a Ghost
 unit.
 
-[[present-lobber,†7]]Present Lobber:: Range 60cm. Can’t
+[[present-lobber,†7]]7. Present Lobber:: Range 60cm. Can’t
 stand and shoot.
 +
 The Present Lobber shoots
@@ -151,7 +151,7 @@ Should the affected unit
 be drawn into close combat by any means it
 is treated as any other _Confused_ unit.
 
-[[snow-cannon,†8]]Snow Cannon:: Range 30cm.
+[[snow-cannon,†8]]8. Snow Cannon:: Range 30cm.
 +
 The Snow Cannon is used to… err shoot snow! This
 snow is mainly used to create some
@@ -190,11 +190,11 @@ if it happened in the Initiative phase the unit
 cannot be moved any more in that Initiative
 or the following Command phase.
 
-[[nikolaus,†9]]Nikolaus:: Nikolaus is mounted in a flying
+[[nikolaus,†9]]9. Nikolaus:: Nikolaus is mounted in a flying
 sleigh. The sleigh counts as a flying chariot
 and the additional attack is already included in his profile.
 
-[[knecht-ruprecht,†10]]Knecht Ruprecht:: Because of his
+[[knecht-ruprecht,†10]]10. Knecht Ruprecht:: Because of his
 reputation for being extra tough, a unit
 accompanied by Knecht Ruprecht causes _Terror_ against evil armies
 (Beastmen, Chaos, Chaos Dwarfs, Daemons, Dark Elves, Goblins, Ogre Kingdoms, Orcs, Skaven, Tomb Kings, Vampire Counts).
