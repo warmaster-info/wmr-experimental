@@ -1,0 +1,272 @@
+= Weihnachtsmann
+:page-layout: armylist
+:page-role: armylist experimental
+:page-toclevels: 1
+
+[IMPORTANT]
+====
+*These are experimental rules designed to be used for casual play.*
+
+_List by Stephan Hess._
+
+// Discussion: https://wmrexperimental.freeforums.net/thread/288/expanded-unit-lists-casual-play[Expanded Unit Lists for casual play].
+// Originally published in Warmaster Magazine issue 3.
+====
+
+[#army-selector]
+== Weihnachtsmann
+
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
+|===
+include::partial$weihnachtsmann.tsv[]
+|===
+
+[#special-rules]
+== Special rules
+
+[[wichtel,†1]]1. Wichtel:: Range 15cm (ordinary firing arc).
+
+[[mail-order-trolls,†2]]2. Mail Order Trolls:: These are especially stupid
+creatures. When issuing an order to a unit
+of Trolls or to a brigade containing one or
+more units of Trolls, there is a command
+penalty of −1 in addition to any other
+modifiers.
++
+Trolls can regenerate wounds – in each
+round of combat after whole stands have been removed Trolls
+automatically regenerate one outstanding hit. If no hits are left
+over after removing whole stands then regeneration has no
+effect. Regenerated hits still count towards the combat result
+for the round.
+
+[[grüne-zipfelmützen,†3]]Grüne Zipfelmützen:: The sleighs can fly
+and are therefore treated as any other flyer,
+but also get the additional +1 Attack for chariots
+when charging an enemy in open terrain. (Note
+the fact that they fly allows them to attack
+units on castle walls and such, but those
+units still count as fortified as stated in the
+siege rules).
+
+[[polar-bears,†4]]Polar Bears:: Although they are monsters, Polar Bears
+are mounted facing the long edge of the
+base, like infantry.
++
+As creatures of the
+forests and mountains under the control
+of human Beastmasters, Polar Bears are able to
+move over or into any wooded or
+mountainous terrain features in the same
+way as infantry. This does not entitle them
+to claim defended status.
++
+Because of their
+irascible, ursine nature Polar Bears cannot be
+brigaded with units of other troops, only
+with other Polar Bears.
++
+Due to their ferocity a
+Polar Bear unit which scores more hits in the first
+round of a combat than the enemy will
+automatically strike 1 more Attack per stand
+before the combat result is worked out.
+Resolve these attacks as normal and then
+work out results.
++
+Bears must always pursue
+retreating enemy where possible and must
+advance if they are able to do so.
+
+[[christmas-trees,†5]]Christmas Trees:: Although they are
+monsters, Christmas Trees are mounted
+facing the long edge of the base like
+infantry.
++
+Christmas Trees can enter woods
+even though they are monsters, but still do
+not count as defended when attacked
+whilst in woods.
++
+Christmas Trees can
+deploy like any other troops in their own
+deployment zone or (quite special) in any
+wooded area on the table.
++
+Any good army
+(Albion, Araby, Bretonnia, Cathay, Dogs of War, Dwarfs, Empire, High Elves, Kislev, Lizardmen, Nippon, Norse, Witch Hunters, Wood Elves)
+will expect to find presents
+under the trees. They are not willing to
+put the presents at risk and will not charge
+Christmas trees on initiative.
++
+In addition, any unit of any army within 20cm of a
+Christmas Tree stand gets an additional −1
+command modifier as they are very
+reluctant to go away before they have got
+their presents. (The baddies and
+the Undead – old habbits die hard – hope for
+presents. Even if they do not believe in
+Christmas, they still hope).
+
+[[ghosts,†6]]Ghosts:: Ghosts can only brigade with
+other Ghosts.
++
+Ghosts are ethereal
+creatures and can not attack or be attacked
+by any means.
++
+Ghosts cause _Terror_ in
+any enemy stand within 20 cm.
++
+Ghosts are
+treated like characters regarding Line of
+Sight.
++
+Friendly units can move through
+Ghosts but cannot end their move with a
+Ghost stand still in their ranks.
++
+Enemy units can
+neither charge nor move through a Ghost
+unit.
+
+[[present-lobber,†7]]Present Lobber:: Range 60cm. Can’t
+stand and shoot.
++
+The Present Lobber shoots
+presents into the enemies ranks. If the
+Lobber hits, no wounds are inflicted and the
+unit is not driven back, but the enemy unit
+is automatically _Confused_, because the unit
+is fully occupied with unwrapping the
+presents.
++
+The unit is not driven back, even
+when hit by other missile fire or magic that
+would normally drive them back (casualties
+are still removed).
++
+Should the affected unit
+be drawn into close combat by any means it
+is treated as any other _Confused_ unit.
+
+[[snow-cannon,†8]]Snow Cannon:: Range 30cm.
++
+The Snow Cannon is used to… err shoot snow! This
+snow is mainly used to create some
+Christmas atmosphere and to allow every
+one the excuse to drink some hot spiced
+wine. The snow is cold enough to drive
+people away, but not cold enough to kill
+anybody. Instead of rolling to hit
+roll 2D6 for the drive back (or add 2
+dice to the drive back roll, when the unit
+already had been hit). The number of dice
+is modified for _Fortified_ or _Defended_
+targets as normal and all other drive back
+rules apply.
++
+When the cannon shoots as
+part of a _Stand and Shoot_ reaction, the
+charging unit loses 2D6 of its movement
+allowance. This might result in the unit not
+reaching its intended target. In this case
+the unit is moved as if the charge would
+have been successful and is than moved
+straight back the distance by which it failed the
+charge.
++
+_I.e. an infantry unit 17 cm away charges
+and the snow cannon rolls an 8. So the
+movement of the charger is reduced by 8cm
+(12 cm left). So the infantry will be moved
+into contact and than 5cm directly back._
++
+If the charge has taken place in the
+Command phase than the active player is
+allowed to give further orders to the unit,
+if it happened in the Initiative phase the unit
+cannot be moved any more in that Initiative
+or the following Command phase.
+
+[[nikolaus,†9]]Nikolaus:: Nikolaus is mounted in a flying
+sleigh. The sleigh counts as a flying chariot
+and the additional attack is already included in his profile.
+
+[[knecht-ruprecht,†10]]Knecht Ruprecht:: Because of his
+reputation for being extra tough, a unit
+accompanied by Knecht Ruprecht causes _Terror_ against evil armies
+(Beastmen, Chaos, Chaos Dwarfs, Daemons, Dark Elves, Goblins, Ogre Kingdoms, Orcs, Skaven, Tomb Kings, Vampire Counts).
+
+[#spells]
+== Christmas Carols
+
+The Army of the North
+Pole has a weird form of magic in Christmas songs!
+
+[#stille-nacht]
+=== Stille Nacht _(Silent Night)_
+
+[.cost]#4+ to cast# [.points]#Range 30 cm#
+
+Nominate a single enemy unit within range.
+Silence will fall heavily on this unit. It can’t
+be given any commands in the next
+Command phase. It can still use Initiative or
+home backs to move.
+
+[#o-tannenbaum]
+=== O’Tannenbaum _(O Christmas tree)_
+
+[.cost]#6+ to cast# [.points]#Range N/A#
+
+If there is a wood or forest on the table the
+trees can be transformed into Christmas
+Trees. If successfully cast, place a unit of
+Christmas Trees in any wood or forest on the
+table. The unit can not be raised into an close
+combat. The spell may only be cast if there
+are spare models available.
+
+[#ihr-kinderlein-kommet]
+=== Ihr Kinderlein kommet _(O come little children)_
+
+[.cost]#5+ to cast# [.points]#Range 30 cm#
+
+Nominate a single enemy unit within range.
+The unit will be moved its maximum
+movement distance towards the
+Weihnachtssänger. If it has enough
+movement to reach or even pass the
+Weihnachtssänger the unit will stop 1 cm
+before it reaches them. The stand closest to
+the Weihnachtssänger is moved first in a
+straight line to end its move facing the
+Weihnachtssänger. The other stands are
+arranged as the owning player sees fit. The
+move is as straight as possible.
+Impassable terrain is circumvented, but
+troops of the moved unit’s side have to
+make way or the unit is stopped and
+becomes _Confused_ (remember to roll for
+_Confusion_ if units make way). If the path
+of the first stand’s move crosses an enemy
+unit the moved unit has to charge that unit
+by performing an ordinary charge.
+
+[#fröheliche-weihnacht-überall]
+=== Fröheliche Weihnacht überall _(We wish you a merry Christmas)_
+
+[.cost]#4+ to cast# [.points]#Range 30 cm#
+
+The spell is cast on a combat of which at
+least 1 stand (friend or foe) is within range.
+Please note that this can affect more than
+one unit of each side. The combatants are
+filled with the spirit of Christmas and decide
+not to fight. The combat ends before it
+begins! Roll for and execute a fall back
+immediately as if both sides had drawn in
+combat. The enemy (of the
+Weihnachtssänger) has to fall back first.
