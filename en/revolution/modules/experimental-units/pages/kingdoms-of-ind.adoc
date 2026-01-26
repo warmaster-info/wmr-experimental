@@ -55,7 +55,8 @@ include::partial$kingdoms-of-ind.tsv[]
 === Army rules
 
 Battling Deities:: As conflict unfolds in the mortal world, the army’s Deity (or even Deities) champion their cause, while others interfere.
-At the start of each Ind turn, if the army contains at least one stand of Deity Hosts/Riders or an Avatar, roll a D6.
+At the start of each Ind turn, if the army contains at least one stand of Deity Hosts, Deity Riders or an Avatar, roll a D6.
++
 If the result is 5 or 6, at any point during that turn the Ind player may re-roll a single D6.
 If a 1 or 2, their opponent may force the re-roll of a single D6.
 If 3 or 4, nothing happens.
@@ -129,7 +130,7 @@ The Deity Avatar can join any unit, which then causes terror.
 +
 There can be only one Deity Avatar in a Kingdoms of Ind army, and they cannot be given magic items.
 
-[[elephant,†]]7. Elephant:: This mount can only be used by the Maharajah and Rajahs.
+[[elephant-mount,†]]7. Elephant:: This mount can only be used by the Maharajah and Rajahs.
 +
 If the Deity Avatar is taken, it counts the same as one elephant mount against the maximum allowed.
 
@@ -148,6 +149,7 @@ If the Deity Avatar is taken, it counts the same as one elephant mount against t
 _Channelling the energy of his army’s Deity, the Purohita paralyses the enemy as they try to raise their weapons._
 
 The Purohita can only cast this spell against an enemy unit touching a friendly unit that they have joined in a combat.
+
 The target unit takes six attacks worked out in the usual way.
 Any hits are carried over into the first round of combat and count as having been struck then when working out combat results.
 

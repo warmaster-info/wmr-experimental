@@ -11,7 +11,7 @@ Deity Flyers	Monster	2	3	5+	–	3	80	–/1	<<deity-flyers>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
 Maharajah	General	+2	–	–	9	1	125	1	–
 Rajah	Hero	+1	–	–	8	1	80	–/2	–
-Deity Avatar	Hero	+3	–	–	8	1	130	1*	<<deity-avatar>>
+Deity Avatar	Hero	+3	–	–	8	1	130	0–1	<<deity-avatar>>
 Purohita	Wizard	+0	–	–	7	1	45	–/1	–
 Elephant	Mount	+2	–	–	–	–	65	–/1	<<elephant-mount>>
 Chariot	Mount	+1	–	–	–	–	10	–/1	<<chariot>>
