@@ -33,7 +33,7 @@ complex by Ind being the _Land of a Thousand Deities_. Across the different regi
 they make many interventions in human affairs. Their power, which Old World travellers often conflate wrongly
 with their own lands’ magic, is felt deeply by Ind’s peoples. Furthermore, Ind’s society has a rigid class system, with
 the lands’ great wealth concentrated amongst the aristocracies of the various kingdoms. The ruling elite channel
-much of their wealth into vast displays of opulence, often in the form of palaces and temples for their Deities. The
+much of their wealth into vast displays of opulence, often in the form of palaces and temples for their deities. The
 arts and crafts of Ind are also highly renowned and those with money dress, reside, and travel in extravagant style.
 Similarly, Ind’s culinary culture has a great reputation; in the waterside taverns of Marienburg you may hear of
 magnificent banquets with strange meats, vegetables, and spices.
@@ -80,7 +80,7 @@ If 3 or 4, nothing happens.
 Orders to [.edit]#Devans# brigaded with non-Devan units incur a −1 command penalty.
 +
 At the start of the player’s own Command phase, [.edit]#before initiative movement#, each friendly Devan unit that has lost at least one stand rolls a D6.
-If the unit has lost 2 stands and is further away than 20cm from a Devan Avatar or Purohita, subtract 1 from the [.edit]#result#.
+If the unit has lost 2 stands and is further away than 20cm from a Devan Avatar or Purohita, deduct 1 from the roll.
 +
 .Fickle devan chart
 [cols="^1,6",frame=none,grid=none]
