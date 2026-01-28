@@ -1,17 +1,17 @@
 Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
 Archers	Infantry	3/1	3	–	–	3	55	2/–	–
 Warriors	Infantry	3	3	5+	–	3	60	–/–	–
-Deity Hosts	Infantry	4	3	5+	–	3	75	–/2	<<deities>>
-Forest Creatures	Infantry	4	3	–	–	3	50	–/4	<<forest-creatures>>
-Nobles	Chariot	3	3	5+	–	3	95	1/–	–
+Devan Hosts	Infantry	4	3	5+	–	3	75	–/2	<<devans>>
+Forest Creatures	Infantry	4	3	–	–	3	55	–/4	<<forest-creatures>>
+Nobles	Chariot	3/1	3	5+	–	3	110	1/3	–
 Horsemen	Cavalry	3/1	3	6+	–	3	75	–/1	<<horsemen>>
-Deity Riders	Cavalry	4	3	5+	–	3	110	–/1	<<deities>>
+Devan Riders	Cavalry	4	3	5+	–	3	110	–/1	<<devans>>
 Elephants	Monster	5	4	5+	–	3	200	–/1	<<elephants>>
-Deity Flyers	Monster	2	3	5+	–	3	80	–/1	<<deity-flyers>>
+Devan Flyers	Monster	2	3	5+	–	3	80	–/1	<<devans>>, <<devan-flyers>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
 Maharajah	General	+2	–	–	9	1	125	1	–
 Rajah	Hero	+1	–	–	8	1	80	–/2	–
-Deity Avatar	Hero	+3	–	–	8	1	130	0–1	<<deity-avatar>>
+Avatar	Hero	+3	–	–	6	1	–	–	<<avatar>>
 Purohita	Wizard	+0	–	–	7	1	45	–/1	–
 Elephant	Mount	+2	–	–	–	–	65	–/1	<<elephant-mount>>
-Chariot	Mount	+1	–	–	–	–	10	–/1	<<chariot>>
+Chariot	Mount	+1	–	–	–	–	10	–/1	–

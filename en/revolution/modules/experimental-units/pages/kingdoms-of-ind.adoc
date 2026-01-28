@@ -7,38 +7,48 @@
 ====
 *These are experimental rules for community playtesting.*
 
-_List by Jim._
+_WMR Kingdoms of Ind v2.1 list by Jim._
 
-Discussion: https://wmrexperimental.freeforums.net/thread/381/kingdoms-ind-2025-community-playtest[Kingdoms of Ind (v1) for 2025 community playtest].
+Feedback and discussion is encouraged on the Warmaster Revolution forum at https://wmrexperimental.freeforums.net/thread/409/kingdoms-ind-2025-community-playtest[Kingdoms of Ind (v2) for 2025 community playtest].
 ====
 
-South of Cathay and thousands of leagues to the south-east of the Old World are the Kingdoms of Ind.
-Lying within a huge peninsula with good ports, the lands are protected by the ocean and high mountains on their northern borders.
-Throughout the country are dense, dark forests that are home to many varieties of sometimes dangerous creatures.
-Well-developed agricultural systems radiate from the great rivers, sustaining many towns, cities, and a large population.
-Additional wealth is generated from jewels mined in the hills and the exotic spices that are grown in the ferociously hot and occasionally very wet climate.
-Until now, the trade routes for these commodities have led primarily to Araby and Cathay, but merchants from Old World – particularly the bolder ones from Marienburg – are trying to establish a direct connection.
-Elven travellers of differing types have also long visited Ind’s shores, ostensibly for trade but some have suggested their true purpose is more sinister.
+// the exotic spices that are → exotic spices
+// the trade routes → trade routes
+// Old World → the Old World
+South of Cathay and thousands of leagues to the south-east of the Old World are the Kingdoms of Ind. Lying within
+a huge peninsula with good ports, the lands are protected by the ocean and high mountains on their northern
+borders. Throughout the country are dense, dark forests that are home to many varieties of sometimes dangerous
+creatures. Well-developed agricultural systems radiate from the great rivers, sustaining many towns, cities, and a
+large population. Additional wealth is generated from jewels mined in the hills and exotic spices grown
+in the ferociously hot and occasionally very wet climate. Until now, trade routes for these commodities have led
+primarily to Araby and Cathay, but merchants from the Old World – particularly the bolder ones from Marienburg – are
+trying to establish a direct connection. Elven travellers of differing types have also long visited Ind’s shores,
+ostensibly for trade but some have suggested their true purpose is more sinister.
 
+// turmoil. Only → turmoil, only
 The lands have several independent kingdoms, whose Maharajahs jostle continually with one another for power.
-Alliances are continually in flux, with peace and a rough balance of power usually emerging after years of turmoil, only to be followed by another ruler seeking to dominate the peninsula.
-Their conflicts are made infinitely more complex by Ind being the _Land of a Thousand Deities_.
-Across the different regions multiple deities are revered and they make many interventions in human affairs.
-Their power, which Old World travellers often conflate wrongly with their own lands’ magic, is felt deeply by Ind’s peoples.
-Furthermore, Ind’s society has a rigid class system, with the lands’ great wealth concentrated amongst the aristocracies of the various kingdoms.
-The ruling elite channel much of their wealth into vast displays of opulence, often in the form of palaces and temples for their deities.
-The arts and crafts of Ind are also highly renowned and those with money dress, reside, and travel in extravagant style.
-Similarly, Ind’s culinary culture has a great reputation; in the waterside taverns of Marienburg you may hear of magnificent banquets with strange meats, vegetables, and spices.
+Alliances are continually in flux, with peace and a rough balance of power usually emerging after years of turmoil,
+only to be followed by another ruler seeking to dominate the peninsula. Their conflicts are made infinitely more
+complex by Ind being the _Land of a Thousand Deities_. Across the different regions multiple deities are revered and
+they make many interventions in human affairs. Their power, which Old World travellers often conflate wrongly
+with their own lands’ magic, is felt deeply by Ind’s peoples. Furthermore, Ind’s society has a rigid class system, with
+the lands’ great wealth concentrated amongst the aristocracies of the various kingdoms. The ruling elite channel
+much of their wealth into vast displays of opulence, often in the form of palaces and temples for their Deities. The
+arts and crafts of Ind are also highly renowned and those with money dress, reside, and travel in extravagant style.
+Similarly, Ind’s culinary culture has a great reputation; in the waterside taverns of Marienburg you may hear of
+magnificent banquets with strange meats, vegetables, and spices.
 
-The endless squabbling amongst the kingdoms often leads to war.
-The nobility proceed upon their campaigns in chariots, for they can afford the finest pairs of the many horses imported from Araby.
-But some prefer elephants, a terrifying foe particularly when used in numbers.
-The less wealthy warriors go on foot, or horseback if they are tasked with reconnaissance.
-The rank-and-file carry longbows and swords, having been summoned in great numbers from their kingdom’s towns and villages.
-Additionally, Ind armies are well-known for the employment of espionage and subversion against their enemies’ commanders.
-The Maharajahs’ forces are accompanied by their Purohitas, powerful priests who harness the energy of the deities in pursuit of victory.
-They can also seek direct help from the deities who, from their world, project battlefield assistance.
-However, the deities can be fickle, and if the tide of battle shifts unfavourably they may suddenly withdraw their forces.
+// Warriors → warriors
+// Deities → deities
+The endless squabbling amongst the kingdoms often leads to war. The nobility proceed upon their campaigns in
+chariots, for they can afford the finest pairs of the many horses imported from Araby. But some prefer elephants, a
+terrifying foe particularly when used in numbers. The less wealthy warriors go on foot, or horseback if they are
+tasked with reconnaissance. The rank-and-file carry longbows and swords, having been summoned in great numbers
+from their kingdom’s towns and villages. Additionally, Ind armies are well-known for the employment of espionage
+and subversion against their enemies’ commanders. The Maharajahs’ forces are accompanied by their Purohitas,
+powerful priests who harness the energy of the deities in pursuit of victory. They can also seek direct help from the
+deities who, from their world, project battlefield assistance. However, the deities can be fickle, and if the tide of
+battle shifts unfavourably they may suddenly withdraw their forces.
 
 [#army-selector]
 == Kingdoms of Ind army selector
@@ -54,8 +64,9 @@ include::partial$kingdoms-of-ind.tsv[]
 [#army-rules]
 === Army rules
 
-Battling Deities:: As conflict unfolds in the mortal world, the army’s Deity (or even Deities) champion their cause, while others interfere.
-At the start of each Ind turn, if the army contains at least one stand of Deity Hosts, Deity Riders or an Avatar, roll a D6.
+// Deities → Devans
+Battling Devans:: As conflict unfolds in the mortal world, the army’s Devan (or even Devans) champion their cause, while others interfere.
+At the start of each Ind turn, if the army contains at least one stand of a Devan unit or an Avatar, roll a D6.
 +
 If the result is 5 or 6, at any point during that turn the Ind player may re-roll a single D6.
 If a 1 or 2, their opponent may force the re-roll of a single D6.
@@ -64,19 +75,19 @@ If 3 or 4, nothing happens.
 [#special-special-rules]
 === Special rules
 
-[[deities,†]]1. Deities:: Ignore the −1 Attack penalty in combat for fighting terrifying troops.
+[[devans,†]]1. Devans:: Ignore the −1 Attack penalty in combat for fighting terrifying troops.
 +
-Orders to Deities brigaded with non-Deity units incur a −1 command penalty.
+Orders to [.edit]#Devans# brigaded with non-Devan units incur a −1 command penalty.
 +
-At the start of the player’s own Command phase, before initiative movement, each friendly Deity unit that has lost at least one stand rolls a D6.
-If the unit has lost 2 stands and is further away than 20cm from a Deity Avatar or Purohita, subtract 1 from the roll.
+At the start of the player’s own Command phase, [.edit]#before initiative movement#, each friendly Devan unit that has lost at least one stand rolls a D6.
+If the unit has lost 2 stands and is further away than 20cm from a Devan Avatar or Purohita, subtract 1 from the [.edit]#result#.
 +
-.Fickle deity chart
+.Fickle devan chart
 [cols="^1,6",frame=none,grid=none]
 |===
 |D6 |Result
 h|0–1
-|Remove one stand. If the Deity Avatar or a Purohita is with the unit and the last stand is removed, they are also removed.
+|Remove one stand. If an Avatar is with the unit and the last stand is removed, [.edit]#the Avatar# is also removed.
 
 h|2–3
 |The unit becomes confused.
@@ -94,27 +105,27 @@ h|6
 
 [[elephants,†]]4. Elephants:: Cause terror and cannot be brigaded with cavalry or chariots.
 +
-If an Elephant unit would for any reason become confused, it will stampede instead. Stampeding Elephants cannot be given orders or use initiative. Each unit moves according to a D6 roll made at the start of the Command phase:
+If an Elephant unit would for any reason become confused, it will stampede instead. Stampeding Elephants cannot be given orders or use initiative. [.edit]#Each unit moves according to a D6 roll made# at the start of the Command phase:
 +
 .Stampeding elephants chart
 [cols="^1,6",frame=none,grid=none]
 |===
 |D6 |Result
 h|1-2
-|Move the elephant unit towards the nearest enemy unit as far as possible. If they contact an enemy unit they charge; if they contact a friendly unit, they burst through
+|Move [.edit]#the elephant unit# towards the nearest enemy unit as far as possible. If they contact [.edit]#the# enemy unit they charge; if they contact a friendly unit, they burst through
 
 h|3-4
-|Move the elephant unit directly away from the nearest enemy unit as far as possible. If the elephants contact an enemy unit, they charge; if they contact a friendly unit, they burst through.
+|Move [.edit]#the elephant unit# directly away from the nearest enemy unit as far as possible. If the [.edit]#elephants contact# an enemy unit, they charge; [.edit]#if they contact# a friendly unit, they burst through.
 
 h|5
-|Move the elephant unit towards the nearest friendly unit as far as possible. If the elephant contacts any unit (friendly or enemy), they charge.
+|Move [.edit]#the elephant unit# towards the nearest friendly unit as far as possible. If the elephant contacts any unit (friendly or enemy), they charge.
 
 h|6
-|Move the elephant unit directly away from the nearest friendly unit as far as possible. If the elephant contacts any unit (friendly or enemy), they charge.
+|Move [.edit]#the elephant unit# directly away from the nearest friendly unit as far as possible. If the elephant contacts any unit (friendly or enemy), they charge.
 |===
 +
 A stampeding Elephant unit that charges will fight in the Combat phase.
-It counts as an enemy unit for the duration of the combat.
+It counts as [.edit]#an enemy unit# for the duration of the combat.
 +
 If the Elephants win a combat round they must pursue if possible and will continue to do so in successive combat rounds.
 +
@@ -122,41 +133,34 @@ Should their opponents be destroyed, they will not advance but will halt.
 +
 Their stampede ceases at the end of their player’s next Command phase.
 
-[[deity-flyers,†]]5. Deity Flyers:: Can fly and are based facing the long edge of their stands.
+[[devan-flyers,†]]5. Devan Flyers:: Can fly and are based facing the long edge of their stands.
 
-[[deity-avatar,†]]6. Deity Avatar:: Has a −1 Command penalty when issuing order to non-Deity units and is able to cast the _Summon Deities_ spell.
-+
-The Deity Avatar can join any unit, which then causes terror.
-+
-There can be only one Deity Avatar in a Kingdoms of Ind army, and they cannot be given magic items.
+[[avatar,†]]6. Avatar:: A unit joined by the Avatar causes terror.
 
-[[elephant-mount,†]]7. Elephant:: This mount can only be used by the Maharajah and Rajahs.
+[[elephant-mount,†]]7. Elephant:: Characters on Elephants cannot join friendly units of mortal cavalry or chariots.
 +
-If the Deity Avatar is taken, it counts the same as one elephant mount against the maximum allowed.
-
-[[chariot,†]]8. Chariot:: Cannot be used by the Deity Avatar.
+A unit joined by the character causes Terror.
 
 //image::vampire-counts/nightmare.webp[]
 
 [#spells]
 == Kingdoms of Ind spells
 
-[#woe-to-you]
-=== Woe to You
+[#behold-the-avatar]
+=== Behold the Avatar
 
-[.cost]#6+ to cast# [.points]#Range touching#
+[.cost]#6+ to cast# [.points]#Range N/A#
 
-_Channelling the energy of his army’s Deity, the Purohita paralyses the enemy as they try to raise their weapons._
+_Drawing upon their last reserves of magical energy, the Purohita summons a terrifying Avatar and then retires – utterly exhausted – from the battlefield._
 
-The Purohita can only cast this spell against an enemy unit touching a friendly unit that they have joined in a combat.
+This spell can only be cast successfully once per game.
 
-The target unit takes six attacks worked out in the usual way.
-Any hits are carried over into the first round of combat and count as having been struck then when working out combat results.
+If successful, replace the Purohita with an Avatar. The Purohita counts as lost when calculating [.edit]#victory points# at the end of the game.
 
 [#thousand-eyed-spies]
 === Thousand-Eyed Spies
 
-[.cost]#5+ to cast# [.points]#Range 30cm#
+[.cost]#5+ to cast# [.points]#Range 50cm#
 
 _The night before battle the Purohita secretly entered the enemy camp and subverted the dreams of leading officers. Triggered later by his magical words and gaze, they issue contradictory orders to their soldiers._
 
@@ -169,23 +173,23 @@ Until the end of their player’s next Command phase, the unit cannot form part 
 
 [.cost]#5+ to cast# [.points]#Range 30cm#
 
-_The Purohita carefully gathers the Deity’s energy before directing it suddenly to wreak havoc amongst their enemies._
+_The Purohita carefully gathers the Devan’s energy before directing it suddenly to wreak havoc amongst their enemies._
 
 This spell can only be cast on an unengaged enemy unit visible to the Purohita.
 
 It is treated like 3 ordinary shooting attacks except that armour has no effect. Target unit can be driven back by the spell.
 
-[#summon-deities]
-=== Summon Deities
+[#summon-devans]
+=== Summon Devans
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
-_As its link to the mortal world, Purohitas and Avatars appeal to their Deity for reinforcements to smite the enemy._
+_As its link to the mortal world, the Purohita appeals to their [.edit]#deity# for reinforcements to smite the foes.__
 
-This spell can be cast on any friendly Deity unit that has lost one or two stands. The Purohita or Deity Avatar do not need to see the unit.
+This spell can be cast on any friendly Devan unit that has lost one or two stands. The Purohita does not need to see the unit.
 
 The unit regains one stand, which is placed in formation with the rest of the unit. If the unit is already in combat the additional stand can be placed so that it touches the enemy and will count as charging if the unit charged.
 
-If it is impossible to position the stand in a formation with its unit, the spell cannot be cast
+If it is impossible to position the stand in a formation with its unit, the spell cannot be cast.
 
 //image::vampire-counts/skeletons.webp[]
