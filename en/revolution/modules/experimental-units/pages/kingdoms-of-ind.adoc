@@ -75,7 +75,7 @@ If 3 or 4, nothing happens.
 [#special-special-rules]
 === Special rules
 
-[[devans,†]]1. Devans:: Ignore the −1 Attack penalty in combat for fighting terrifying troops.
+[[devans,†1]]1. Devans:: Ignore the −1 Attack penalty in combat for fighting terrifying troops.
 +
 Orders to [.edit]#Devans# brigaded with non-Devan units incur a −1 command penalty.
 +
@@ -99,11 +99,11 @@ h|6
 |The unit regains one stand. The regained stand is placed in formation with the rest of the unit. If it is impossible to position the stand in a formation, it cannot be added.
 |===
 
-[[forest-creatures,†]]2. Forest Creatures:: Can only be brigaded with other Forest Creatures units and do not suffer the −1 command penalty for being in dense terrain.
+[[forest-creatures,†2]]2. Forest Creatures:: Can only be brigaded with other Forest Creatures units and do not suffer the −1 command penalty for being in dense terrain.
 
-[[horsemen,†]]3. Horsemen:: Have a range of 15cm and can shoot from any edge.
+[[horsemen,†3]]3. Horsemen:: Have a range of 15cm and can shoot from any edge.
 
-[[elephants,†]]4. Elephants:: Cause terror and cannot be brigaded with cavalry or chariots.
+[[elephants,†4]]4. Elephants:: Cause terror and cannot be brigaded with cavalry or chariots.
 +
 If an Elephant unit would for any reason become confused, it will stampede instead. Stampeding Elephants cannot be given orders or use initiative. [.edit]#Each unit moves according to a D6 roll made# at the start of the Command phase:
 +
@@ -133,11 +133,11 @@ Should their opponents be destroyed, they will not advance but will halt.
 +
 Their stampede ceases at the end of their player’s next Command phase.
 
-[[devan-flyers,†]]5. Devan Flyers:: Can fly and are based facing the long edge of their stands.
+[[devan-flyers,†5]]5. Devan Flyers:: Can fly and are based facing the long edge of their stands.
 
-[[avatar,†]]6. Avatar:: A unit joined by the Avatar causes terror.
+[[avatar,†6]]6. Avatar:: A unit joined by the Avatar causes terror.
 
-[[elephant-mount,†]]7. Elephant:: Characters on Elephants cannot join friendly units of mortal cavalry or chariots.
+[[elephant-mount,†7]]7. Elephant:: Characters on Elephants cannot join friendly units of mortal cavalry or chariots.
 +
 A unit joined by the character causes Terror.
 
