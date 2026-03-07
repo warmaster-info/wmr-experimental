@@ -184,7 +184,7 @@ It is treated like 3 ordinary shooting attacks except that armour has no effect.
 
 [.cost]#4+ to cast# [.points]#Range 30cm#
 
-_As its link to the mortal world, the Purohita appeals to their [.edit]#deity# for reinforcements to smite the foes.__
+_As its link to the mortal world, the Purohita appeals to their [.edit]#deity# for reinforcements to smite the foes._
 
 This spell can be cast on any friendly Devan unit that has lost one or two stands. The Purohita does not need to see the unit.
 
