@@ -7,7 +7,7 @@
 ====
 *These are experimental rules designed to be used for casual play.*
 
-_Compiled by ntdars, with the much needed help of the WMR community. Version 2.1._
+_Compiled by ntdars, with the much needed help of the WMR community. Version 2.2._
 
 Discussion: https://wmrexperimental.freeforums.net/thread/288/expanded-unit-lists-casual-play[Expanded Unit Lists for casual play].
 ====
@@ -65,8 +65,9 @@ General as his personal bodyguard, [.edit]#so a Dwarf army may only include
 a single unit of Hammerers#.
 
 [[seaguard,†8]]8. Seaguard:: One unit of High Elf Spearmen per full
-1000 points can be upgraded to Seaguard for 25
-points. Seaguard have a shooting range
+1000 points can be upgraded to Seaguard for 25 points.
++
+Seaguard have a shooting range
 of only 15cm.
 
 [[phoenix-guard,†9]]9. Phoenix Guard:: Phoenix Guard are unaffected

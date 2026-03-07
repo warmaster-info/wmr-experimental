@@ -7,7 +7,7 @@
 ====
 *These are experimental rules designed to be used for casual play.*
 
-_Compiled by ntdars, with the much needed help of the WMR community. Version 2.1._
+_Compiled by ntdars, with the much needed help of the WMR community. Version 2.2._
 
 Discussion: https://wmrexperimental.freeforums.net/thread/288/expanded-unit-lists-casual-play[Expanded Unit Lists for casual play].
 ====
@@ -48,22 +48,19 @@ Cold One Chariots
 cannot form brigades except with other units of Cold
 One Chariots or Cold One Knights and _vice versa_.
 
-[[black-guard,†3]]3. Black Guard:: Black Guard re-roll failed attack rolls
-on the first round of combat when they are charged.
-
-[[cygor,†4]]4. Cygor:: The Cygor’s shooting attack uses the
+[[cygor,†3]]3. Cygor:: The Cygor’s shooting attack uses the
 xref:rules:artillery-and-machines.adoc#stone-thrower[Stone Thrower]
 rules as described in the Rulebook.
 
-[[pestigors,†5]]5. Pestigors:: One unit of Bestigors per full 1000 points
+[[pestigors,†4]]4. Pestigors:: One unit of Bestigors per full 1000 points
 can be upgraded to Pestigors for 35 points.
 
-[[weapon-teams,†6]]6. Weapon Teams:: Weapon Teams follow the same
+[[weapon-teams,†5]]5. Weapon Teams:: Weapon Teams follow the same
 rules for xref:armies:empire.adoc#skirmishers[Empire Skirmishers], but may only join
 Clanrat units.
 +
 Weapon Teams have a shooting range
-of only 15cm however they can draw line of sight
+of only 15cm, however they can draw line of sight
 from all edges of their base for the purpose of
 Evading or Shooting, including shooting at charging
 enemies. Note, they still need Line of Sight from their
@@ -78,7 +75,7 @@ means the weapon has malfunctioned! The
 Weapon Team and its parent unit become
 Confused.
 
-[[hellpit-abomination,†7]]7. Hellpit Abomination:: Hellpit Abominations are
+[[hellpit-abomination,†6]]6. Hellpit Abomination:: Hellpit Abominations are
 so aggressive that they cannot be included as
 part of a brigade, not even with other Hellpit
 Abominations.
@@ -102,14 +99,14 @@ Per 1000 points, you
 can either field a Hellpit Abomination or
 Doomwheel, but not both.
 
-[[verminlord,†8]]8. Verminlord:: Only Skaven Grey Seers can be
+[[verminlord,†7]]7. Verminlord:: Only Skaven Grey Seers can be
 upgraded to become a Verminlord.
 +
 A unit that
 has been joined by a Verminlord causes Terror in
 its enemies.
 
-[[blood-knights,†9]]9. Blood Knights:: Blood Knights ignore the
+[[blood-knights,†8]]8. Blood Knights:: Blood Knights ignore the
 “Undead” special army rule from the Vampire
 Counts Army Selector, however they are still
 unaffected by the −1 Combat penalty for fighting
@@ -123,7 +120,7 @@ Blood Knights are
 exceptionally rare, so [.edit]#the army may only include
 a single unit#.
 
-[[varghulf,†10]]10. Varghulf:: Varghulfs never suffer the −1 Attack
+[[varghulf,†9]]9. Varghulf:: Varghulfs never suffer the −1 Attack
 modifier due to being flanked in the side or rear.
 +
 Once all hits have been struck for that round,

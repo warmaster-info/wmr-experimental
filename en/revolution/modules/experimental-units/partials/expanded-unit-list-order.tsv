@@ -1,5 +1,8 @@
 Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Empire Greatswords 	Infantry 	3	3	4+ 	– 	3	85	–/1 	<<greatswords>>
+Bretonnia Foot Knights 	Infantry 	3	3	4+ 	– 	3	80	–/1 	xref:armies:bretonnia.adoc#knights[Br†2]
+{nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
+Empire Greatswords 	Infantry 	3	3	5+ 	– 	3	75	–/1 	<<greatswords>>
+Empire Foot Knights 	Infantry 	3	3	4+ 	– 	3	80	–/1 	
 Empire Demigryph Knights 	Cavalry 	4	3	4+ 	– 	3	155	–/1 	<<demigryph-knights>>
 Empire Huntsmen 	Infantry 	2/1 	3	– 	– 	3	65	–/2 	<<huntsmen>>
 Empire Outriders 	Cavalry 	3/1 	3	5+ 	– 	3	105	–/2* 	<<outriders>>
@@ -14,4 +17,4 @@ High Elf Swordmasters 	Infantry 	4	3	5+ 	– 	3	80	–/1
 High Elf Phoenix Guard 	Infantry 	3	3	4+ 	– 	3	90	–/1 	<<phoenix-guard>>
 High Elf Dragon Princes 	Cavalry 	4	3	4+ 	– 	3	165	0–1 	<<dragon-princes>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
-Kislev Urugan Cannons 	Artillery 	1/2+ bounce 	2	0	– 	2	90	–/1 	<<uruguan-cannons>>
+Kislev Urugan Cannons 	Artillery 	1/2+ bounce 	2	–	– 	2	90	–/1 	<<uruguan-cannons>>
