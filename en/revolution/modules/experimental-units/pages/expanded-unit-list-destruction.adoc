@@ -7,7 +7,7 @@
 ====
 *These are experimental rules designed to be used for casual play.*
 
-_Compiled by ntdars, with the much needed help of the WMR community. Version 2.2._
+_Compiled by Turban Elby, with the much needed help of the WMR community. Version 2.3._
 
 Discussion: https://wmrexperimental.freeforums.net/thread/288/expanded-unit-lists-casual-play[Expanded Unit Lists for casual play].
 ====

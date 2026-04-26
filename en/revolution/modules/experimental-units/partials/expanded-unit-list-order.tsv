@@ -1,5 +1,5 @@
 Troop	Type	Attacks	Hits	Armour	Command	Unit size	Points per unit	Min/max	Special
-Bretonnia Foot Knights 	Infantry 	3	3	4+ 	– 	3	80	–/1 	xref:armies:bretonnia.adoc#knights[Br†2]
+Bretonnia Foot Knights 	Infantry 	3	3	4+ 	– 	3	80	–/1 	<<foot-knights>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}
 Empire Greatswords 	Infantry 	3	3	5+ 	– 	3	75	–/1 	<<greatswords>>
 Empire Foot Knights 	Infantry 	3	3	4+ 	– 	3	80	–/1 	
