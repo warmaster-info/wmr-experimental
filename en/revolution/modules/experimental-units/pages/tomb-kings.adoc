@@ -1,0 +1,297 @@
+= Tomb Kings Experimental
+:page-layout: armylist
+:page-role: armylist page=9
+:page-toclevels: 1
+//po4a: entry ushabti
+//po4a: entry tomb-guard
+//po4a: entry skeletons
+//po4a: entry skeleton-bowmen
+//po4a: entry skeleton-cavalry
+//po4a: entry skeleton-chariots
+//po4a: entry carrion
+//po4a: entry bone-giant
+//po4a: entry sphinx
+//po4a: entry skull-chukka
+//po4a: entry bone-thrower
+//po4a: entry tomb-king
+//po4a: entry liche-priest
+//po4a: entry zombie-dragon
+//po4a: entry liche-chariot
+:ushabti: Ushabti
+:tomb-guard: Tomb Guard
+:skeletons: Skeletons
+:skeleton-bowmen: Skeleton Bowmen
+:skeleton-cavalry: Skeleton Cavalry
+:skeleton-chariots: Skeleton Chariots
+:carrion: Carrion
+:bone-giant: Bone Giant
+:sphinx: Sphinx
+:skull-chukka: Skull Chukka
+:bone-thrower: Bone Thrower
+:tomb-king: Tomb King
+:liche-priest: Liche Priest
+:zombie-dragon: Zombie Dragon
+:liche-chariot: Liche Chariot
+:dragon: {zombie-dragon}
+include::armies:partial$table-attributes.adoc[]
+
+[IMPORTANT]
+====
+*These are experimental rules for community playtesting.*
+
+_Tomb Kings Experimental Rework by Iain Standing, Jan Zapatka, Falco Schneider._
+
+Feedback and discussion is encouraged on the Warmaster Revolution forum at https://wmrexperimental.freeforums.net/thread/346/rebalancing-tomb-kings[Rebalancing Tomb Kings].
+====
+
+// TODO: Logo is half the resolution of all the others.
+
+image:armies:tomb-kings/logo.webp[width=93,height=117,float="right"]
+In ages past the land of Khemri was fertile, populous and
+prosperous thanks to the waters of the Great River of Life
+whose annual floods irrigated the fields and guaranteed a
+bountiful harvest. Each city was ruled by a Priest King and
+for many centuries these omnipotent monarchs lived and died
+and were buried in tombs constructed by their faithful Liche
+Priests. The bodies of the Priest Kings, and those of their most
+faithful troops and retainers, were carefully embalmed and
+interred with holy spells of immortality to prepare them for
+the far-off day of re-awakening.
+
+Unfortunately for the Priest Kings of Khemri their dreams of
+eternal life were to be realised only in the most horrific way.
+A rebellious Liche Priest called Nagash overthrew the cities of
+Khemri and made himself ruler of the entire land. Consequently
+he was driven into exile and eventually murdered. However,
+this was not the end of Nagash, for he was the greatest Sorcerer
+of his day if not all of all time, and whilst the Black Pyramid
+endured Nagash’s spirit could always find refuge there. His evil
+was gradually absorbed into the Black Pyramid and his body
+reborn in the sorcerous sarcophagus that lay deep within.
+
+Nagash’s vengeance upon his enemies was absolute. From deep
+within the Black Pyramid he worked upon a great spell of
+death that he eventually cast upon the whole land of Khemri.
+Consequently a pestilence fell upon the nation and all living
+things sickened and died so that soon there were none to bury
+the dead and the cities became nothing but empty tombs. What
+was alive was now dead, and what was dead was revivified as
+undead. On that terrible day the rulers of old awoke to the
+horror that had befallen them. The golden immortality in which
+they had believed had proven a false dream. The Tomb Kings
+were mightily angered to discover that they had been treated
+in this way – and there were a great many of them. Whole
+dynasties rose as one, ancient rivals and bitter enemies side by
+side. But most of all their anger was reserved for Nagash. They
+saw the Black Pyramid and felt the dark winds of sorcery that
+blew about its shining black walls and understood that they had
+been betrayed.
+
+From their tombs the Tomb Kings have re-ordered their
+kingdoms. Their peoples, mostly interred without the benefit
+of royal magic, are little more than automatons. Undead
+armies wheel and manoeuvre with ingrained military instinct,
+continually re-fighting old wars or pursuing new ones amidst
+the dry deserts. The terrible spell that created them binds
+them to their land but offers no succour. Those that perish
+in battle rise each dawn whilst even those that are destroyed
+entirely, burned to smoke or vaporised by sorcery, live on as
+spiteful spirits that can be heard in the wailing of the wind and
+groaning of great stones in the mountains. If the Tomb Kings
+take any comfort it is only in the recreation of their ancient
+empires – a shadow of former existence that evokes memories
+of the lives that they once led.
+
+image::armies:tomb-kings/tomb-kings.webp[width=2079,height=874]
+
+[.page=10]
+[#army-selector]
+== Tomb kings experimental army selector
+
+[%header,format=tsv,role=unit,cols="2*<,7*^,^a",frame=none,grid=rows]
+|===
+include::partial$tomb-kings.tsv[]
+|===
+
+[#special-rules]
+== Special rules
+
+[#army-rules]
+=== Army rules
+
+Undead:: Undead units never act on initiative. An Undead unit
+only moves in the Command phase if given orders (except
+Carrion who can also home back as noted below).
++
+Undead units are unaffected by the −1 Command penalty for
+enemy within 20cm.
++
+Undead units are unaffected by the −1 Combat penalty for
+fighting terrifying troops.
++
+Undead units are unaffected by the Confusion rule – they
+cannot become confused for any reason.
+
+[#special-special-rules]
+=== Special rules
+
+////
+6: Space before +1
+////
+
+[[ushabti-tomb-guard,†1]]1. Ushabti & Tomb Guard:: Each unit of Tomb
+Guard and Ushabti you include in your army
+counts for the min/max value of Skeleton
+Chariots and their own min/max values. For
+example, if you take one unit of Ushabti and
+one unit of Tomb Guards at 1000 points, they
+take up two Chariot slots, so you can only take
+one unit of Skeleton Chariots.
+
+[[ushabti,†2]]2. Ushabti:: When a Tomb King gives an order
+to Ushabti or a brigade that contains Ushabti
+there is a −1 Command penalty. There is no
+penalty when a Liche-Priest gives an order.
+
+[[tomb-guard,†3]]3. Tomb Guard:: Tomb Guards received
+necromantic blessings before they were buried
+alive alongside their king. These preparations
+allow those former veterans to keep a
+semblance of their utter devotion to their king,
+even beyond death.
++
+Tomb Guards will obey
+the first order given to them each turn on a
+Command roll of 10 or less so long as the
+order comes from the General himself. No
+penalties are applied to this order. Further
+orders are given using the General’s normal
+command value and penalties. This applies
+only to Guards and not to brigades that include
+Tomb Guards and other units.
+
+[[carrion,†4]]4. Carrion:: Carrion can fly. Note that Carrion can always return
+to a character by homing back at the start of the Command
+phase.
+
+[[bone-giant,†5]]6. Bone Giant:: Bone Giants cause terror. When a Tomb King
+gives an order to a Bone Giant or a brigade that contains a Bone
+Giant there is a −1 Command penalty. There is no penalty when
+a Liche Priest gives an order.
+
+[[sphinx,†6]]6. Sphinx:: Because the Sphinx has so many hits (6) we must
+consider the possibility of hurting the Sphinx and reducing
+its effectiveness in subsequent turns. Therefore, if a Sphinx
+has accumulated 4–5 hits by the end of the Shooting phase
+or Combat phase and is no longer engaged in combat it is
+deemed to have been badly hurt. Once a Sphinx is badly hurt
+all accumulated hits are discounted and its maximum Hits and
+Attacks are halved for the rest of the battle (to 3 Hits and 2
+Attacks). The Sphinx causes terror.
+
+[[skull-chukka,†7]]7. Skull Chukka:: The Skull Chukka is a
+xref:rules:artillery-and-machines.adoc#stone-thrower[Stone Thrower]
+but with the following additional rule.
+When a unit is driven back as a result of hits scored by a Skull
+Chukka, then any dice rolled in respect to those hits will cause
+Confusion on the roll of 4, 5 or 6 (rather than 6 as normal). Note
+that if a unit has taken other hits as well it will be necessary
+to roll the Skull Chukka dice separately. See the Artillery and
+Machines section of the rulebook for the Stone Thrower rules.
+
+[[bone-thrower,†8]]8. Bone Thrower:: The Bone Thrower is a xref:rules:artillery-and-machines.adoc#bolt-thrower[Bolt Thrower] as
+described in the Rulebook.
+
+[[tomb-king,†9]]9. Tomb King:: The Tomb King is empowered by the spells cast
+upon him when buried. He can use this power to increase the
+Combat Attacks value of all the stands in one unit within 20cm
+by +1 for the duration of one Combat phase. This ability can
+only be used once per battle.
+
+[[zombie-dragon,†10]]10. Zombie Dragon:: A Tomb King or Liche Priest may ride a
+Zombie Dragon.
++
+include::partial$dragon.adoc[]
+
+[[liche-chariot,†8]]8. Liche Chariot:: A Tomb King or Liche Priest can ride a chariot.
+A character riding a chariot adds +1 to his Attacks.
+
+image::armies:tomb-kings/tomb-king.webp[width=605,height=810,role=decorative]
+
+[.page=11]
+[#spells]
+== Tomb King spells
+
+[#eternal-servitude]
+=== Eternal Servitude
+
+[.cost]#4+ to cast# [.points]#Range 60cm#
+
+This spell can be cast on any friendly Skeleton, Skeleton Bowmen or Skeleton
+Cavalry unit originally of three
+stands that has lost one or two stands as casualties. It does not
+matter whether the Liche Priest can see the unit or not.
+
+The unit regains one stand. The regained stand is placed directly
+behind, in front or beside another stand from the same unit,
+and facing the same direction. If the unit is already in combat
+the additional stand can be placed so that it touches the enemy
+and will count as charging if the unit charged. If it is impossible
+to position the stand in this manner, the spell cannot be cast
+and will not work.
+
+[#touch-of-death]
+=== Touch of Death
+
+[.cost]#4+ to cast# [.points]#Range N/A#
+
+_The Liche Priest’s enemies crumble to dust as he smites them with
+the corrupting Touch of Death._
+
+The Liche Priest can cast this spell if he has joined a unit in combat.
+The spell can be cast on any single enemy unit that it is touching
+the unit the Liche Priest has joined.
+
+The target unit takes three attacks worked out in the usual way.
+Any hits scored are carried over into the first round of combat
+and count as having been struck in the first round for purposes
+of working out combat results.
+
+[#doom-and-despair]
+=== Doom and Despair
+
+[.cost]#4+ to cast# [.points]#Range 30cm#
+
+_A dark cloud of doom and despair settles over the enemy,
+sapping their courage and dampening their warlike spirit._
+
+This spell can be cast on any enemy unit within range regardless
+of whether the Liche Prist can see it or not.
+
+The spell takes effect until the end of the opposing player’s next
+turn.
+
+Whilst the spell lasts the unit cannot charge and if engaged
+in combat will not pursue or advance. Even units that are
+otherwise obliged to charge, pursue, or advance will not do so
+if affected by Doom and Despair. Note that even other Undead
+are not immune – they are overcome by the ennui of the tomb!
+
+[#death-bolt]
+=== Death Bolt
+
+[.cost]#5+ to cast# [.points]#Range 30cm#
+
+_A fearsome bolt of sorcerous lightning flies from the Liche Priest’s
+outstretched fingertips and strikes an enemy unit._
+
+This spell can be cast on an enemy unit. The Liche Priest must
+be able to see his target to use this spell. The spell cannot be
+directed at a unit engaged in combat.
+
+The Death Bolt is treated like three ordinary shooting attacks
+except that armour has no effect (all targets count as having
+no armour). A unit can be driven back by a Death Bolt as with
+ordinary shooting.
+
+image::armies:tomb-kings/tomb-king-battle-line.jpg[width=1591,height=813,role=column-span]
