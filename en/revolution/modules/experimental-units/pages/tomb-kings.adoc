@@ -213,7 +213,7 @@ Zombie Dragon.
 +
 include::partial$dragon.adoc[]
 
-[[liche-chariot,†8]]8. Liche Chariot:: A Tomb King or Liche Priest can ride a chariot.
+[[liche-chariot,†11]]11. Liche Chariot:: A Tomb King or Liche Priest can ride a chariot.
 A character riding a chariot adds +1 to his Attacks.
 
 image::armies:tomb-kings/tomb-king.webp[width=605,height=810,role=decorative]
