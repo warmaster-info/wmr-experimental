@@ -174,7 +174,7 @@ Tomb Guards and other units.
 to a character by homing back at the start of the Command
 phase.
 
-[[bone-giant,†5]]6. Bone Giant:: Bone Giants cause terror. When a Tomb King
+[[bone-giant,†5]]5. Bone Giant:: Bone Giants cause terror. When a Tomb King
 gives an order to a Bone Giant or a brigade that contains a Bone
 Giant there is a −1 Command penalty. There is no penalty when
 a Liche Priest gives an order.
