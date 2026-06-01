@@ -10,7 +10,7 @@
 {warp-lightning-cannon}	{artillery}	1/3	2	–	–	2	60	–/1	<<warp-lightning-cannon>>
 {doom-wheel}	{machine}	5	4	4+	–	1	125	–/1	<<doom-wheel>>
 {screaming-bell}	{machine}	–	4	4+	–	1	125	0–1	<<screaming-bell>>
-[.exp]#{hellpit-abomination}#	{monster}	6	4	4+	–	1	125	–/1	<<hellpit-abomination>>
+[.exp]#{hellpit-abomination}#	{monster}	6/2	4	4+	–	1	125	–/1	<<hellpit-abomination>>
 {nbsp}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty}	{empty} 
 {grey-seer}	{general}	+1	–	–	9	1	130	1	<<grey-seer>>
 {hero}	{hero}	+1	–	–	8	1	70	–/2	–

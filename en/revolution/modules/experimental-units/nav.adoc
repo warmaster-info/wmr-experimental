@@ -3,5 +3,6 @@
 ** xref:expanded-unit-list-order.adoc[]
 ** xref:expanded-unit-list-destruction.adoc[]
 ** xref:kingdoms-of-ind.adoc[]
+** xref:skaven.adoc[]
 ** xref:tomb-kings.adoc[]
 ** xref:weihnachtsmann.adoc[]
