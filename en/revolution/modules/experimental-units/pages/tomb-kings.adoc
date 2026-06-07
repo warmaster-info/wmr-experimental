@@ -211,7 +211,7 @@ only be used once per battle.
 [[zombie-dragon,†10]]10. Zombie Dragon:: A Tomb King or Liche Priest may ride a
 Zombie Dragon.
 +
-include::partial$dragon.adoc[]
+include::armies:partial$dragon.adoc[]
 
 [[liche-chariot,†11]]11. Liche Chariot:: A Tomb King or Liche Priest can ride a chariot.
 A character riding a chariot adds +1 to his Attacks.
